@@ -133,7 +133,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Experience Edge
 
- - [Blog Post Title](https://some.url) - Blog post description.
+ - [The Architecture of Experience Edge](https://doc.sitecore.com/xmc/en/developers/xm-cloud/the-architecture-of-experience-edge.html) - Official documentation on the architecture of Experience Edge in Sitecore XM Cloud, explaining key components and data flow for scalable content delivery.
+ - [Experience Edge Plugin](https://doc.sitecore.com/xmc/en/developers/xm-cloud/experience-edge-plugin.html) - Detailed guide for installing, configuring, and using the Experience Edge Plugin to integrate with Sitecore XM Cloud.
+ - [Limitations and Restrictions of Experience Edge](https://doc.sitecore.com/xmc/en/developers/xm-cloud/limitations-and-restrictions-of-experience-edge.html) - Overview of the constraints and known restrictions of Experience Edge in Sitecore XM Cloud to help guide your implementation strategy.
+ - [Experience Edge for XM APIs](https://doc.sitecore.com/xmc/en/developers/xm-cloud/experience-edge-for-xm-apis.html) - Explanation of how Experience Edge works with XM APIs in Sitecore XM Cloud, including integration details and best practices.
+ - [Rate Limits and Caching](https://developers.sitecore.com/learn/accelerate/xm-cloud/pre-development/project-architecture/rate-limits-and-caching) - Insights into rate limiting and caching techniques in Sitecore XM Cloud to optimize performance and ensure reliable API usage.
 
 ## Fields
  - [Expand Link Field Rendering Parameters in Layout Service](https://www.getfishtank.com/insights/expand-link-field-rendering-parameters-in-layout-service) - Guide to customizing and extending link field rendering parameters in Sitecore's Layout Service for greater flexibility in content delivery.
