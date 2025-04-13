@@ -19,21 +19,25 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Pages](#pages)
 - [PowerShell](#powershell)
 - [Publishing](#publishing)
+- [React](#react)
+- [Search](#search)
 - [SEO](#seo)
+- [Serverless](#serverless)
 - [Storybook](#storybook)
 - [SXA](#sxa)
+- [Testing](#testing)
 
 ## Analytics
 
-[Unlock the Power of Analytics in Sitecore XM Cloud Pages](https://www.getfishtank.com/insights/understanding-analytics-in-sitecore-xm-cloud-pages) - Explore the built‑in Analyze tool in Sitecore XM Cloud Pages for real‑time site and page insights.
+[Understanding Analytics in Sitecore XM Cloud Pages](https://www.getfishtank.com/insights/understanding-analytics-in-sitecore-xm-cloud-pages) - Explore XM Cloud Pages’ built‑in Analyze tool for real‑time insights into site and page performance.
 
 ## Development
 
-- [Blog Post Title](https://some.url) - Blog post description.
+[Blog Post Title](https://some.url) - Blog post description.
 
 ## Experience Edge
 
-- [Blog Post Title](https://some.url) - Blog post description.
+[Blog Post Title](https://some.url) - Blog post description.
 
 ## GraphQL
 
@@ -41,6 +45,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 [Effective Strategies for Integrating Sitecore Data with Custom Hooks and Static Props](https://www.getfishtank.com/insights/integrating-sitecore-data-in-next-js-xm-cloud-using-graphql) - Compare static generation and dynamic fetching approaches to pull Sitecore data into Next.js via GraphQL.
 [Utilizing Next.js API Routes for Sitecore XM Cloud GraphQL Queries](https://www.getfishtank.com/insights/utilizing-nextjs-api-routes-for-sitecore-xm-cloud-graphql-queries) - Build secure Next.js API routes that execute GraphQL queries against Sitecore Experience Edge.
 [Enabling the GraphQL API for Master, Web and Core Database](https://www.getfishtank.com/insights/enabling-the-graphql-api-for-sitecore-databases) - Step‑by‑step guide to turn on GraphQL endpoints for all Sitecore content databases and test them in Experience Edge.
+[Understanding Graph Types in Sitecore](https://www.getfishtank.com/insights/understanding-graph-types-in-sitecore) - Developer guide to Sitecore Graph Types—base, scalar, complex, and derived classes—and how they structure data for Experience Edge GraphQL queries.
+[Sitecore JSS Component Creation Using Integrated GraphQL](https://www.getfishtank.com/insights/jss-component-with-integrated-graphql-query) - Learn how to use Integrated GraphQL when creating a JSS component in Sitecore to customize the JSON returned by the Layout Service.
 
 ## Next.Js
 
@@ -61,12 +67,27 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  
 ## Publishing
 
-- [Blog Post Title](https://some.url) - Blog post description.
+[Blog Post Title](https://some.url) - Blog post description.
+
+## React
+
+[Building a Custom Horizontal Scrollbar in React with Framer Motion](https://www.getfishtank.com/insights/building-a-custom-horizontal-scrollbar-in-react-with-framer-motion) - Step‑by‑step tutorial on crafting an accessible horizontal scroll container in React using Framer Motion for smooth animations.
 
 ## Storybook
 
 [Interactive Testing in Storybook with Next.js and Sitecore XM Cloud](https://www.getfishtank.com/insights/interactive-testing-storybook-with-nextjs-sitecore-xm-cloud) - Guide to using Storybook’s interactive testing to validate UI behavior in Next.js Sitecore XM Cloud projects.
 [Mocking API Calls in Storybook Using MSW On Your Sitecore XM Cloud Project](https://www.getfishtank.com/insights/mocking-api-calls-in-storybook-using-msw-on-your-sitecore-xm-cloud-project) - Step‑by‑step tutorial on mocking REST API calls in Storybook with Mock Service Worker for Sitecore XM Cloud.
+[How to Add Component Factory to Storybook](https://www.getfishtank.com/insights/how-to-add-component-factory-to-storybook) - Step‑by‑step guide to wiring a component factory in Storybook so Sitecore components render with consistent mock data.
+
+## Search
+
+[Sitecore Search Sitemap Customization](https://www.getfishtank.com/insights/sitecore-search-sitemap-customization) - How to tailor sitemap triggers and indexing rules so Sitecore Search always crawls the right URLs.
+[How to Setup a Sitecore Search Source and Prep for Using the Sitecore Search Starter Kit](https://www.getfishtank.com/insights/creating-a-sitecore-search-source-and-prep-for-using-the-sitecore-search-starter-kit) - Step‑by‑step guide to configuring a content source in Sitecore Search and preparing it for the Search Starter Kit.
+
+## Serverless
+
+[Building a Serverless Email Handler with SMTP and Sitecore Send](https://www.getfishtank.com/insights/building-a-serverless-email-handler-with-smtp-and-sitecore-send) - Learn how to send emails using SMTP with Sitecore Send, Next.js, and Nodemailer.
+[Creating a Next.js Serverless Function for Sitecore Hook Integration](https://www.getfishtank.com/insights/creating-a-nextjs-serverless-function-for-sitecore-hook-integration) - Build a serverless API route that triggers on Sitecore webhooks and pushes content updates via GraphQL.
 
 ## SEO
 
@@ -81,5 +102,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 [Sitecore SXA Component Layout Settings](https://www.getfishtank.com/insights/sitecore-sxa-component-layout-settings) - How to configure and fine‑tune layout settings for SXA components, including spacing and responsive behavior.
 [Sitecore SXA SEO Features](https://www.getfishtank.com/insights/sitecore-sxa-seo-features) - Overview of the built‑in SEO tools in Sitecore SXA and best practices for maximizing search visibility.
 
+## Testing
+
+[What is Sitecore XM Cloud A/B/n Testing?](https://www.getfishtank.com/insights/what-is-sitecore-xm-cloud-a-b-n-testing) - Initial impressions and a walkthrough of XM Cloud’s new A/B/n testing feature, showing how marketers configure component‑level experiments.
 
 
