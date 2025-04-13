@@ -81,9 +81,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Build Components with Coveo Headless Controllers in Next.js](https://www.getfishtank.com/insights/build-components-with-coveo-headless-controllers-in-nextjs) - Step‑by‑step tutorial on leveraging Coveo Headless controllers in Next.js to build dynamic search components.
  - [Customizing Coveo Atomic with Headless](https://www.getfishtank.com/insights/customizing-coveo-atomic-with-headless) - Detailed guide to integrating headless technology with Coveo Atomic for a tailored, high‑performance search interface.
  - [How to Control the Content in Coveo's Excerpt Field](https://www.getfishtank.com/insights/how-to-control-the-content-in-coveos-excerpt-field) - Learn techniques for managing and customizing the excerpt field in Coveo search results to improve content relevancy and user engagement.
+ - [How to Edit Excerpts in Coveo Atomic for React](https://www.getfishtank.com/insights/how-to-edit-excerpts-in-coveo-atomic-for-react) - Step‑by‑step guide to customize and refine excerpt display in Coveo Atomic when using React, enhancing search result presentation.
 
 ## Debugging
-
 
 
 ## Development
@@ -203,6 +203,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Best Practices for Loading States in Next.js](https://www.getfishtank.com/insights/best-practices-for-loading-states-in-nextjs) - Learn best practices for implementing efficient loading states in Next.js applications to ensure smooth and responsive user experiences.
  - [Managing Your Environment Variables on Your Sitecore JSS Projects with Next.js](https://www.getfishtank.com/insights/managing-your-environment-variables-on-your-sitecore-jss-projects-with-nextjs) - Guide to securely managing environment variables in Sitecore JSS projects with Next.js for improved configuration control.
  - [Demystifying the Sitecore Component Factory and Optimizing Your Sitecore Project](https://www.getfishtank.com/insights/demystifying-the-sitecore-component-factory-and-optimizing-your-sitecore-project) - Explore the inner workings of the Sitecore component factory and learn optimization techniques to enhance your Sitecore project.
+ - [Comprehensive Guide to Data Fetching in Next.js](https://www.getfishtank.com/insights/comprehensive-guide-to-data-fetching-in-nextjs) - A complete guide covering various data fetching strategies in Next.js, including static generation, server-side rendering, and client-side fetching for building high-performance web applications.
 
 ## Pages
 
@@ -263,6 +264,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [How to Add a Sort Feature on Your Sitecore Search Component in React or Next.js](https://www.getfishtank.com/insights/how-to-add-a-sort-feature-on-your-sitecore-search-component-in-react-or-nextjs) - Guide to integrating sorting functionality in your search component using React or Next.js for organized search results.
  - [An Introduction to Sitecore Search Features](https://www.getfishtank.com/insights/an-introduction-to-sitecore-search-features) - Overview of the core features of Sitecore Search, explaining its benefits and integration potential.
  - [A Guide to the Sitecore Search Customer Engagement Console](https://www.getfishtank.com/insights/a-guide-to-the-sitecore-search-customer-engagement-console) - Comprehensive guide to leveraging the Customer Engagement Console in Sitecore Search to enhance user interactions and analytics.
+ - [Intro to Sitecore Search Analytics](https://www.getfishtank.com/insights/intro-to-sitecore-search-analytics) - Overview of Sitecore Search Analytics, detailing key concepts and techniques for analyzing search data to enhance user experience and content discoverability.
 
 ## Serialization
 
@@ -299,7 +301,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Crafting Better UIs with Storybook](https://www.getfishtank.com/insights/crafting-better-uis-with-storybook) - Explore best practices for designing, testing, and refining user interfaces using Storybook.
  - [A Comprehensive Guide to Getting Started with Storybook](https://www.getfishtank.com/insights/a-comprehensive-guide-to-getting-started-with-storybook) - Step‑by‑step guide that introduces Storybook, covering setup, configuration, and best practices for streamlining your UI development process.
  - [UI Testing with Storybook](https://www.getfishtank.com/insights/ui-testing-with-storybook) - A comprehensive guide to setting up and executing UI tests with Storybook to ensure component reliability and improve development workflows.
-
+ - [Mocking NextAuth.js in Storybook](https://www.getfishtank.com/insights/mocking-nextauthjs-in-storybook) - Step‑by‑step guide on configuring and mocking NextAuth.js within Storybook to simulate authentication flows for effective UI testing.
+ - [Supporting Sass Variables in XM Cloud and Storybook](https://www.getfishtank.com/insights/supporting-sass-variables-in-xm-cloud-and-storybook) - Guide to integrating Sass variable support within XM Cloud projects and Storybook for streamlined theming and maintainable styling.
+ - [Efficiently Mocking Sitecore Layout Data and NextAuth Sessions in Storybook](https://www.getfishtank.com/insights/efficiently-mocking-sitecore-layout-data-and-nextauth-sessions-in-storybook) - Step‑by‑step guide on using Storybook to effectively mock Sitecore layout data alongside NextAuth sessions for streamlined UI testing.
+ - [Using MSW in Storybook to Mock Sitecore XM Cloud GraphQL Queries](https://www.getfishtank.com/insights/using-msw-in-storybook-to-mock-sitecore-xm-cloud-graphql-queries) - Detailed instructions for configuring MSW in Storybook to simulate Sitecore XM Cloud GraphQL queries, enhancing test reliability.
 
 ## SXA
 
@@ -309,12 +314,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Adding Components in Sitecore XM Cloud Pages](https://www.getfishtank.com/insights/adding-components-in-sitecore-xm-cloud-pages) - Step‑by‑step instructions on how to add and configure components in XM Cloud Pages for a flexible, customized web experience.
  - [How to Create Rendering Variants in Sitecore XM Cloud with Next.js](https://www.getfishtank.com/insights/how-to-create-rendering-variants-in-sitecore-xm-cloud-with-nextjs) - Learn how to create variants for your Sitecore renderings and apply them in Next.js.
  - [Creating Components in Sitecore XM Cloud](https://www.getfishtank.com/insights/creating-components-in-sitecore-xm-cloud) - A comprehensive guide to creating, configuring, and deploying components in Sitecore XM Cloud to build dynamic web experiences.
+ - [Understanding the XM Cloud Page Design and Complex Partial Design Setup](https://www.getfishtank.com/insights/understanding-the-xm-cloud-page-design-and-complex-partial-design-setup) - Explore detailed insights into the architecture and configuration of XM Cloud page design, including strategies for implementing complex partial designs for flexible, scalable content management.
 
 ## Tailwind
 
  - [Child Selectors & Pseudo-Elements in Tailwind CSS for Sitecore JSS](https://www.getfishtank.com/insights/child-selectors-and-pseudo-elements-in-tailwind-css-for-sitecore-jss) - Improve your Tailwind knowledge and let Sitecore authors easily tweak styling using child selectors, pseudo‑classes, and pseudo‑elements.
  - [How to Optimize Styling Using Tailwind CSS](https://www.getfishtank.com/insights/how-to-optimize-styling-using-tailwind-css) - Best practices for organizing classes, using @apply, and purging unused styles to keep Tailwind‑generated CSS lean and maintainable.
  - [Implementing Theming in Sitecore Headless XM Cloud with Tailwind CSS](https://www.getfishtank.com/insights/implementing-theming-in-sitecore-headless-xm-cloud-with-tailwind-css) - Step‑by‑step guide to integrating Tailwind CSS for dynamic theming in Sitecore headless XM Cloud projects.
+ - [Tailwind CSS vs Twin Macro](https://www.getfishtank.com/insights/tailwind-css-vs-twin-macro) - Explore the differences between Tailwind CSS and Twin Macro, detailing their benefits and use cases for streamlined styling in modern web development.
    
 ## Testing
 
@@ -327,6 +334,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Vercel
 
  - [How to Use Vercel Data Cache with XM Cloud and Experience Edge](https://www.getfishtank.com/insights/how-to-use-vercel-data-cache-with-xm-cloud-and-experience-edge) - Step‑by‑step guide on leveraging Vercel's data cache to optimize performance and scalability in XM Cloud and Experience Edge environments.
+ - [How Does Vercel and Cloudflare Create a Modern Infrastructure Super Team](https://www.getfishtank.com/insights/how-does-vercel-and-cloudflare-create-a-modern-infrastructure-super-team) - Explore the collaborative strategies that enable Vercel and Cloudflare to build a modern, scalable infrastructure super team, driving innovation and performance.
+ - [Vercel Pro vs Enterprise: Problem-Solution Approach](https://www.getfishtank.com/insights/vercel-pro-vs-enterprise-problem-solution-approach) - A detailed comparison of Vercel Pro and Enterprise plans, outlining a problem-solution approach to address enterprise-level challenges.
+ - [Vercel Pro vs Enterprise: Comparison of Critical Features](https://www.getfishtank.com/insights/vercel-pro-vs-enterprise-comparison-of-critical-features) - Detailed feature-by-feature comparison of Vercel Pro and Enterprise plans, highlighting the key differences essential for scaling modern web applications.
 
 ## Versions
 
