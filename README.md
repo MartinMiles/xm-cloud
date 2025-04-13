@@ -8,74 +8,59 @@ Sitecore XM Cloud is a fully managed self-service deployment platform for develo
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-<table>
-  <colgroup>
-    <col style="width: 50%">
-    <col style="width: 50%">
-  </colgroup>
-  <tr>
-    <td valign="top">
+## Contents
 
-- [Accessibility](#accessibility)  
-- [AI](#ai)  
-- [APIs](#apis)  
-- [Analytics](#analytics)  
-- [Cloud SKD](#cloudsdk)  
-- [Content](#content)  
-- [Coveo](#coveo)  
-- [Data Architecture](#dataarchitecture)  
-- [Debugging](#debugging)  
-- [Development](#development)  
-- [DevOps](#devops)  
-- [Docker](#docker)  
-- [ErrorPages](#errorpages)  
-- [Experience Edge](#experienceedge)  
-- [Fields](#fields)  
-- [Forms](#forms)  
-- [GraphQL](#graphql)  
-- [General](#general)  
-- [Going Live](#goinglive)  
-- [Integrations](#integrations)  
-- [JSS](#jss)  
-- [Logging](#logging)  
-- [Media](#media)  
-- [Metadata Editing Mode](#metadataeditingmode)  
-
-    </td>
-    <td valign="top">
-
-- [Middleware](#middleware)  
-- [Multisite](#mulisite)  
-- [Languages](#languages)  
-- [Next.Js](#nextjs)  
-- [NextAuth](#nextauth)  
-- [Pages](#pages)  
-- [Personalization](#personalization)  
-- [Placeholders](#placeholders)  
-- [Planning](#planning)  
-- [PowerShell](#powershell)  
-- [Publishing](#publishing)  
-- [React](#react)  
-- [Redirects](#redirects)  
-- [RichText](#richtext)  
-- [Security](#security)  
-- [Search](#search)  
-- [Serialization](#serialization)  
-- [SEO](#seo)  
-- [Serverless](#serverless)  
-- [Storybook](#storybook)  
-- [SXA](#sxa)  
-- [Testing](#testing)  
-- [TypeScript](#typescript)  
-- [Vercel](#vercel)  
-- [Versions](#versions)  
-- [Webhooks](#webhooks)  
-- [Workflows](#workflows)  
-
-    </td>
-  </tr>
-</table>
-
+- [Accessibility](#accessibility)
+- [AI](#ai)
+- [APIs](#apis)
+- [Analytics](#analytics)
+- [Cloud SKD](#cloudsdk)
+- [Conent](#content)
+- [Coveo](#coveo)
+- [Data Architecture](#dataarchitecture)
+- [Debugging](#debugging)
+- [Development](#development)
+- [DevOps](#devops)
+- [Docker](#docker)
+- [ErrorPages](#errorpages)
+- [Experience Edge](#experienceedge)
+- [Fields](#fields)
+- [Forms](#forms)
+- [GraphQL](#graphql)
+- [General](#general)
+- [Going Live](#goinglive)
+- [Integrations](#integrations)
+- [JSS](#jss)
+- [Logging](#logging)
+- [Media](#media)
+- [Metadata Editing Mode](#metadataeditingmode)
+- [Middleware](#middleware)
+- [Multisite](#mulisite)
+- [Languages](#languages)
+- [Next.Js](#nextjs)
+- [NextAuth](#nextauth)
+- [Pages](#pages)
+- [Personalization](#personalization)
+- [Placeholders](#placeholders)
+- [Planning](#planning)
+- [PowerShell](#powershell)
+- [Publishing](#publishing)
+- [React](#react)
+- [Redirects](#redirects)
+- [RichText](#richtext)
+- [Security](#security)
+- [Search](#search)
+- [Serialization](#serialization)
+- [SEO](#seo)
+- [Serverless](#serverless)
+- [Storybook](#storybook)
+- [SXA](#sxa)
+- [Testing](#testing)
+- [TypeScript](#typescript)
+- [Vercel](#vercel)
+- [Versions](#versions)
+- [Webhooks](#webhooks)
+- [Workflows](#workflows)
 
 ## Accessibility
 
