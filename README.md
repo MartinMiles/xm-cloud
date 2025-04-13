@@ -10,15 +10,18 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contents
 
+- [Accessibility](#accessibility)
 - [AI](#ai)
 - [Analytics](#analytics)
 - [Conent](#content)
 - [Coveo](#coveo)
+- [Debugging](#debugging)
 - [Development](#development)
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Experience Edge](#experienceedge)
 - [Fields](#fields)
+- [Forms](#forms)
 - [GraphQL](#graphql)
 - [General](#general)
 - [Going Live](#goinglive)
@@ -26,6 +29,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [JSS](#jss)
 - [Logging](#logging)
 - [Media](#media)
+- [Middleware](#middleware)
 - [Multisite](#mulisite)
 - [Languages](#languages)
 - [Next.Js](#nextjs)
@@ -35,16 +39,24 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [PowerShell](#powershell)
 - [Publishing](#publishing)
 - [React](#react)
+- [Redirects](#redirects)
+- [RichText](#richtext)
 - [Security](#security)
 - [Search](#search)
+- [Serialization](#serialization)
 - [SEO](#seo)
 - [Serverless](#serverless)
 - [Storybook](#storybook)
 - [SXA](#sxa)
 - [Testing](#testing)
+- [TypeScript](#typescript)
 - [Vercel](#vercel)
 - [Versions](#versions)
 - [Webhooks](#webhooks)
+
+## Accessibility
+
+ - [Making Next.js Sitecore Projects Accessible](https://www.getfishtank.com/insights/making-nextjs-sitecore-projects-accessible) - Discover best practices and techniques for ensuring web accessibility in Next.js projects built on Sitecore, enhancing usability and compliance.
 
 ## AI
 
@@ -70,6 +82,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Customizing Coveo Atomic with Headless](https://www.getfishtank.com/insights/customizing-coveo-atomic-with-headless) - Detailed guide to integrating headless technology with Coveo Atomic for a tailored, high‑performance search interface.
  - [How to Control the Content in Coveo's Excerpt Field](https://www.getfishtank.com/insights/how-to-control-the-content-in-coveos-excerpt-field) - Learn techniques for managing and customizing the excerpt field in Coveo search results to improve content relevancy and user engagement.
 
+## Debugging
+
+
+
 ## Development
 
  - [A Sitecore Developer's Resolution for 2025](https://www.getfishtank.com/insights/a-sitecore-developers-resolution-for-2025) - Roadmap for Sitecore developers in 2025, focusing on XM Cloud, Next.js, improved authoring experiences, and community engagement.
@@ -89,6 +105,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [How to Attach to Process When Using Docker Containers in Sitecore](https://www.getfishtank.com/insights/how-to-attach-to-process-when-using-docker-containers-in-sitecore) - Step‑by‑step instructions on how to attach to live processes running inside Docker containers in a Sitecore environment for debugging and performance analysis.
  - [Logging into MS SQL Server When Using Docker Sitecore](https://www.getfishtank.com/insights/logging-into-ms-sql-server-when-using-docker-sitecore) - Step‑by‑step guide to accessing and managing MS SQL Server instances running within Docker containers in a Sitecore environment.
  - [Increase Memory and Performance of Sitecore XM Cloud Development Environments](https://www.getfishtank.com/insights/increase-memory-and-performance-of-sitecore-xm-cloud-development-environments) - Step‑by‑step guide to optimize your local development environment by increasing memory allocation and fine‑tuning performance settings in Sitecore XM Cloud.
+ - [Debugging Sitecore in Docker When Sitecore Won't Start](https://www.getfishtank.com/insights/debugging-sitecore-in-docker-when-sitecore-wont-start) - Step‑by‑step troubleshooting guide to resolving startup issues with Sitecore running in Docker.
+ - [How to Fix Sitecore SET-EnvFileVariable Docker Error](https://www.getfishtank.com/insights/how-to-fix-sitecore-set-envfilevariable-docker-error) - Step‑by‑step guide to resolving the SET‑EnvFileVariable error in Docker for Sitecore, ensuring smooth container initialization.
 
 ## Experience Edge
 
@@ -98,6 +116,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Expand Link Field Rendering Parameters in Layout Service](https://www.getfishtank.com/insights/expand-link-field-rendering-parameters-in-layout-service) - Guide to customizing and extending link field rendering parameters in Sitecore's Layout Service for greater flexibility in content delivery.
  - [Experience Edge Data Integration in Sitecore XM Cloud: Custom Fields](https://www.getfishtank.com/insights/experience-edge-data-integration-in-sitecore-xm-cloud-custom-fields) - Learn how to integrate custom field data from Experience Edge into your Sitecore XM Cloud projects for enhanced content management and delivery.
  - [Handling Link Field GraphQL Queries on Sitecore XM Cloud Experience Edge](https://www.getfishtank.com/insights/handling-link-field-graphql-queries-on-sitecore-xm-cloud-experience-edge) - Step‑by‑step guide to managing and troubleshooting link field GraphQL queries on Sitecore XM Cloud Experience Edge for streamlined content delivery.
+
+## Forms
+
+ - [Why Use Serverless Functions in Next.js on Sitecore XM Cloud](https://www.getfishtank.com/insights/why-use-serverless-functions-in-nextjs-on-sitecore-xm-cloud) - Explore the benefits of leveraging serverless functions in Next.js to enhance performance and scalability within Sitecore XM Cloud.
+ - [Understanding Sitecore XM Cloud Form Analytics](https://www.getfishtank.com/insights/understanding-sitecore-xm-cloud-form-analytics) - Detailed guide to analyzing and optimizing form interactions in Sitecore XM Cloud for enhanced user engagement and data-driven insights.
 
 ## GraphQL
 
@@ -130,14 +153,20 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Implementing Custom Script into Your XM Cloud Solution](https://www.getfishtank.com/insights/implementing-custom-script-into-your-xm-cloud-solution) - Step‑by‑step guide on integrating a custom script into your XM Cloud environment to extend functionality and streamline operations.
 - [The Difference Between Sitecore Cloud SDK and Engage SDK](https://www.getfishtank.com/insights/the-difference-between-sitecore-cloud-sdk-and-engage-sdk) - Explore the key differences between the Sitecore Cloud SDK and Engage SDK, detailing their unique features and ideal use cases for modern digital experiences.
 - [Setting Up Sitecore CDP for XM Cloud and Beyond](https://www.getfishtank.com/insights/setting-up-sitecore-cdp-for-xm-cloud-and-beyond) - Step‑by‑step guide to configuring Sitecore CDP within your XM Cloud environment and extending its capabilities to enrich customer data and experiences.
+- [How to Correctly Track Clicks and Page Referrers on Sitecore XM Cloud with Next.js with GTM](https://www.getfishtank.com/insights/how-to-correctly-track-clicks-and-page-referrers-on-sitecore-xm-cloud-with-nextjs-with-gtm) - Detailed guide on implementing Google Tag Manager in a Next.js project on Sitecore XM Cloud to accurately track clicks and page referrers.
   
 ## JSS
 
+ - [All Sitecore JSS Types and How to Use Them](https://www.getfishtank.com/insights/all-sitecore-jss-types-and-how-to-use-them) - Comprehensive guide outlining each Sitecore JSS type and practical tips on how to utilize them effectively.
  - [What is the PartialDesignDynamicPlaceholder in Sitecore JSS](https://www.getfishtank.com/insights/what-is-the-partialdesigndynamicplaceholder-in-sitecore-jss) - Explains how the PartialDesignDynamicPlaceholder enables dynamic component placement in Sitecore JSS and when to use it.
- - [Improving Sitecore JSS Development with ESLint: Introducing eslint-plugin-sitecore-jss](https://www.getfishtank.com/insights/improving-sitecore-jss-development-with-eslint-introducing-eslint-plugin-sitecore-jss) - Discover how an ESLint plugin for Sitecore JSS enforces best practices and correct component usage in Next.js projects.
+  - [Improving Sitecore JSS Development with ESLint: Introducing eslint-plugin-sitecore-jss](https://www.getfishtank.com/insights/improving-sitecore-jss-development-with-eslint-introducing-eslint-plugin-sitecore-jss) - Discover how an ESLint plugin for Sitecore JSS enforces best practices and correct component usage in Next.js projects.
  - [Understanding Sitecore JSS Component Scaffolding and Optimizing Our Next.js Development](https://www.getfishtank.com/insights/understanding-sitecore-jss-component-scaffolding-and-optimizing-our-next-js-development) - Deep dive into scaffolding Sitecore JSS components and streamlining Next.js development workflows for more efficient, scalable projects.
  - [Improve Development Using Sitecore JSS Component Scaffolding in Next.js Projects](https://www.getfishtank.com/insights/improve-development-using-sitecore-jss-component-scaffolding-in-next-js-projects) - Learn how to streamline your Next.js development workflow by leveraging Sitecore JSS component scaffolding techniques for faster and more consistent application building.
  - [Next.js Link vs Sitecore JSS Link](https://www.getfishtank.com/insights/next-js-link-vs-sitecore-jss-link) - Compare the capabilities and use cases of Next.js’s native Link component with Sitecore JSS Link for optimal routing and performance in headless applications.
+ - [All Sitecore JSS Types and How to Use Them](https://www.getfishtank.com/insights/all-sitecore-jss-types-and-how-to-use-them) - Comprehensive guide outlining each Sitecore JSS type and practical tips on how to utilize them effectively.
+ - [Automating TypeScript Type Generation for Sitecore JSS Templates](https://www.getfishtank.com/insights/automating-typescript-type-generation-for-sitecore-jss-templates) - Step‑by‑step tutorial on automating TypeScript type generation for JSS templates to streamline development.
+ - [Managing Your Environment Variables on Your Sitecore JSS Projects with Next.js](https://www.getfishtank.com/insights/managing-your-environment-variables-on-your-sitecore-jss-projects-with-nextjs) - Guide to securely managing environment variables in Sitecore JSS projects with Next.js for improved configuration control.
+ - [Two Simple Ways to Improve Your JSS XM Cloud Code](https://www.getfishtank.com/insights/two-simple-ways-to-improve-your-jss-xm-cloud-code) - Discover two practical techniques to enhance code quality and performance in your JSS XM Cloud projects.
 
 ## Logging
 
@@ -146,6 +175,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Media
 
  - [Image Optimization with Next.js for XM Cloud and Sitecore Headless Development](https://www.getfishtank.com/insights/image-optimization-with-next-js-for-xm-cloud-and-sitecore-headless-development) - Best practices and techniques for optimizing images in Next.js applications integrated with XM Cloud and Sitecore headless solutions to improve page load speeds.
+
+## Middleware
 
 ## Multisite
 
@@ -166,11 +197,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [XM Cloud Upgrading Your Next.js Environments](https://www.getfishtank.com/insights/xm-cloud-upgrading-your-nextjs-environments) - Discover strategies and best practices for upgrading Next.js environments on XM Cloud for optimal performance.
  - [Custom Hooks for Next.js in Sitecore XM Cloud](https://www.getfishtank.com/insights/custom-hooks-for-nextjs-in-sitecore-xm-cloud) - Learn how to build and implement custom React hooks tailored for Next.js applications on Sitecore XM Cloud.
  - [Using Custom Hooks to Efficiently Handle Forms in Next.js](https://www.getfishtank.com/insights/using-custom-hooks-to-efficiently-handle-forms-in-nextjs) - Step‑by‑step guide on leveraging custom hooks to simplify form handling in Next.js.
+ - [Best Practices for Loading States in Next.js](https://www.getfishtank.com/insights/best-practices-for-loading-states-in-nextjs) - Learn best practices for implementing efficient loading states in Next.js applications to ensure smooth and responsive user experiences.
+ - [Managing Your Environment Variables on Your Sitecore JSS Projects with Next.js](https://www.getfishtank.com/insights/managing-your-environment-variables-on-your-sitecore-jss-projects-with-nextjs) - Guide to securely managing environment variables in Sitecore JSS projects with Next.js for improved configuration control.
+ - [Demystifying the Sitecore Component Factory and Optimizing Your Sitecore Project](https://www.getfishtank.com/insights/demystifying-the-sitecore-component-factory-and-optimizing-your-sitecore-project) - Explore the inner workings of the Sitecore component factory and learn optimization techniques to enhance your Sitecore project.
 
 ## Pages
 
  - [Sitecore Rendering Parameters Base Templates and Page Builder Support](https://www.getfishtank.com/insights/sitecore-rendering-parameters-base-templates-and-page-builder-support) - Understanding Sitecore's rendering parameter base templates and their usage for Page Builder.
  - [How to Use Styling and Advance Styling on Sitecore XM Cloud's Page Builder](https://www.getfishtank.com/insights/how-to-use-styling-and-advance-styling-on-sitecore-xm-clouds-page-builder) - Walkthrough of the Styling and Advanced Styling panels in XM Cloud Page Builder, showing editors how to tweak spacing, typography, and other design properties.
+ - [Managing Templates from Within Sitecore XM Cloud Pages](https://www.getfishtank.com/insights/managing-templates-from-within-sitecore-xm-cloud-pages) - Step‑by‑step guide to managing and customizing page templates directly within Sitecore XM Cloud Pages for enhanced control over content presentation.
 
 ## Personalization
 
@@ -179,6 +214,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Placeholders
 
  - [Solving Placeholder Issues in Sitecore XM Cloud with Next.js](https://www.getfishtank.com/insights/solving-placeholder-issues-in-sitecore-xm-cloud-with-nextjs) - Guide to resolving rendering placeholder issues in Next.js applications integrated with Sitecore XM Cloud, ensuring smooth content delivery.
+ - [How to Create Dynamic Placeholders with Partial Designs in Sitecore XM Cloud](https://www.getfishtank.com/insights/how-to-create-dynamic-placeholders-with-partial-designs-in-sitecore-xm-cloud) - A practical guide for building dynamic placeholders using partial designs to create flexible, reusable layout components in Sitecore XM Cloud.
 
 ## PowerShell
 
@@ -198,6 +234,54 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Understanding React Hooks](https://www.getfishtank.com/insights/understanding-react-hooks) - A comprehensive overview of React Hooks, explaining how they simplify state management and side effects in functional components.
  - [Using React Context to Create Conditional UI for Sitecore XM Cloud Renderings](https://www.getfishtank.com/insights/using-react-context-to-create-conditional-ui-for-sitecore-xm-cloud-renderings) - Step‑by‑step guide on leveraging React Context API to build conditional UI components that enhance the rendering experience in Sitecore XM Cloud.
 
+## Redirects
+
+ - [Sitecore XM Cloud Redirects: Page-Level Dynamic and Out-of-the-Box Redirects](https://www.getfishtank.com/insights/sitecore-xm-cloud-redirects-page-level-dynamic-and-out-of-the-box-redirects) - Learn how to implement and manage both dynamic page‑level redirects and built‑in out‑of‑the‑box redirects in Sitecore XM Cloud for improved navigation and SEO.
+
+## RichText
+
+ - [How to Add Code Snippets in Sitecore XM Cloud Rich Text Editor](https://www.getfishtank.com/insights/how-to-add-code-snippets-in-sitecore-xm-cloud-rich-text-editor) - Step‑by‑step guide to embedding code snippets within the Sitecore XM Cloud Rich Text Editor for enhanced content presentation and developer communication.
+
+## Security
+
+ - [Enhancing Security in Sitecore Headless Next.js Apps on XM Cloud](https://www.getfishtank.com/insights/enhancing-security-in-sitecore-headless-next-js-apps-on-xm-cloud) - Step‑by‑step guide to implementing robust security practices in Sitecore headless Next.js applications on XM Cloud, covering authentication, secure APIs, and data protection.
+ - [Securin­g Your XM Cloud Project with Next.js From Clickjacking](https://www.getfishtank.com/insights/securing-your-xm-cloud-project-with-nextjs-from-clickjacking) - Learn how to protect your Next.js-based XM Cloud project from clickjacking attacks with best practices and secure coding techniques.
+
+## Search
+
+ - [Sitecore Search Sitemap Customization](https://www.getfishtank.com/insights/sitecore-search-sitemap-customization) - How to tailor sitemap triggers and indexing rules so Sitecore Search always crawls the right URLs.
+ - [How to Setup a Sitecore Search Source and Prep for Using the Sitecore Search Starter Kit](https://www.getfishtank.com/insights/creating-a-sitecore-search-source-and-prep-for-using-the-sitecore-search-starter-kit) - Step‑by‑step guide to configuring a content source in Sitecore Search and preparing it for the Search Starter Kit.
+ - [Where to Debug Errors in Your Sitecore Search Index](https://www.getfishtank.com/insights/where-to-debug-errors-in-your-sitecore-search-index) - Guide to identifying and resolving issues in your Sitecore Search index, featuring practical troubleshooting tips and debugging techniques.
+ - [Building Related Content Lists with Sitecore Search Widgets in XM Cloud and Next.js](https://www.getfishtank.com/insights/building-related-content-lists-with-sitecore-search-widgets-in-xm-cloud-and-next-js) - Learn how to leverage Sitecore Search widgets and Next.js to create dynamic related content lists that enhance user engagement and content discoverability.
+ - [Configuring a Search Experience in Sitecore Search](https://www.getfishtank.com/insights/configuring-a-search-experience-in-sitecore-search) - Step‑by‑step guide to setting up and tailoring a search experience with Sitecore Search for optimal content discovery.
+ - [How to Select Sources for Sitecore Search with Next.js](https://www.getfishtank.com/insights/how-to-select-sources-for-sitecore-search-with-nextjs) - Learn how to choose and configure data sources in Next.js to power effective Sitecore Search functionalities.
+ - [Search Results Component with Sitecore Search](https://www.getfishtank.com/insights/search-results-component-with-sitecore-search) - Detailed walkthrough on building and customizing a search results component using Sitecore Search in your Next.js application.
+ - [How to Create Facets for Your Sitecore Search Component](https://www.getfishtank.com/insights/how-to-create-facets-for-your-sitecore-search-component) - Step‑by‑step tutorial on implementing faceted navigation in your Sitecore Search component to enhance filtering options.
+ - [How to Add a Sort Feature on Your Sitecore Search Component in React or Next.js](https://www.getfishtank.com/insights/how-to-add-a-sort-feature-on-your-sitecore-search-component-in-react-or-nextjs) - Guide to integrating sorting functionality in your search component using React or Next.js for organized search results.
+ - [An Introduction to Sitecore Search Features](https://www.getfishtank.com/insights/an-introduction-to-sitecore-search-features) - Overview of the core features of Sitecore Search, explaining its benefits and integration potential.
+ - [A Guide to the Sitecore Search Customer Engagement Console](https://www.getfishtank.com/insights/a-guide-to-the-sitecore-search-customer-engagement-console) - Comprehensive guide to leveraging the Customer Engagement Console in Sitecore Search to enhance user interactions and analytics.
+
+## Serialization
+
+ - [The Basic Checklist for Sitecore XM Cloud Content Serialization](https://www.getfishtank.com/insights/the-basic-checklist-for-sitecore-xm-cloud-content-serialization) - A must‑read checklist outlining the essential steps and best practices for content serialization in Sitecore XM Cloud.
+ - [How to Add New Items to Your XM Cloud Serialization](https://www.getfishtank.com/insights/how-to-add-new-items-to-your-xm-cloud-serialization) - Step‑by‑step guide to integrating new items into your XM Cloud serialization workflow, streamlining content updates and version management.
+
+## Serverless
+
+ - [Building a Serverless Email Handler with SMTP and Sitecore Send](https://www.getfishtank.com/insights/building-a-serverless-email-handler-with-smtp-and-sitecore-send) - Learn how to send emails using SMTP with Sitecore Send, Next.js, and Nodemailer.
+ - [Creating a Next.js Serverless Function for Sitecore Hook Integration](https://www.getfishtank.com/insights/creating-a-nextjs-serverless-function-for-sitecore-hook-integration) - Build a serverless API route that triggers on Sitecore webhooks and pushes content updates via GraphQL.
+ - [Architecting Complex Sitecore Forms with Next.js in XM Cloud](https://www.getfishtank.com/insights/architecting-complex-sitecore-forms-with-next-js-in-xm-cloud) - Discover best practices for designing and managing complex Sitecore forms using Next.js in XM Cloud, ensuring robust user experiences.
+
+## SEO
+
+ - [Boosting Your SEO: 5 Effective Strategies Using Sitecore and Next.js](https://www.getfishtank.com/insights/5-effective-seo-strategies-using-sitecore-and-nextjs) - Discover how to leverage Sitecore and Next.js to boost your website's SEO performance.
+ - [Optimizing Metadata and SEO in Next.js for Your XM Cloud Website](https://www.getfishtank.com/insights/optimizing-metadata-and-seo-in-nextjs-for-xm-cloud) - Discover how Next.js transforms metadata management for better search engine visibility and improved user experience.
+ - [Sitecore SXA SEO Features](https://www.getfishtank.com/insights/sitecore-sxa-seo-features) - Overview of the built‑in SEO tools in Sitecore SXA and best practices for maximizing search visibility.
+ - [Regenerate the Sitemap on a Local XM Cloud Docker Development Environment](https://www.getfishtank.com/insights/regenerate-the-sitemap-on-a-local-xm-cloud-docker-development-environment) - Learn how to regenerate an empty sitemap in a local XM Cloud Docker environment using a custom utility for debugging and development.
+ - [Customizing a Sitemap in Sitecore XM Cloud for a Multidomain Solution](https://www.getfishtank.com/insights/sitemap-customization-for-sitecore-xm-cloud-multidomain-solutions) - Customize the sitemap.ts file in a Next.js XM Cloud multidomain setup so each domain’s sitemap shows the correct URLs.
+ - [Optimizing Metadata and SEO in Next.js for Your XM Cloud Website](https://www.getfishtank.com/insights/optimizing-metadata-and-seo-in-nextjs-for-xm-cloud) - Learn how to manage metadata in Next.js to improve search visibility and user experience on XM Cloud sites.
+ - [Customizing a Sitemap in Sitecore XM Cloud for a Multidomain Solution](https://www.getfishtank.com/insights/sitemap-customization-for-sitecore-xm-cloud-multidomain-solutions) - Customize the sitemap.ts file in a Next.js XM Cloud multidomain setup so each domain’s sitemap shows the correct URLs.
+
 ## Storybook
 
  - [Interactive Testing in Storybook with Next.js and Sitecore XM Cloud](https://www.getfishtank.com/insights/interactive-testing-storybook-with-nextjs-sitecore-xm-cloud) - Guide to using Storybook’s interactive testing to validate UI behavior in Next.js Sitecore XM Cloud projects.
@@ -211,33 +295,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Getting Storybook Up and Running in Netlify](https://www.getfishtank.com/insights/getting-storybook-up-and-running-in-netlify) - Detailed instructions to deploy and configure Storybook on Netlify for a seamless UI development workflow.
  - [Crafting Better UIs with Storybook](https://www.getfishtank.com/insights/crafting-better-uis-with-storybook) - Explore best practices for designing, testing, and refining user interfaces using Storybook.
  - [A Comprehensive Guide to Getting Started with Storybook](https://www.getfishtank.com/insights/a-comprehensive-guide-to-getting-started-with-storybook) - Step‑by‑step guide that introduces Storybook, covering setup, configuration, and best practices for streamlining your UI development process.
+ - [UI Testing with Storybook](https://www.getfishtank.com/insights/ui-testing-with-storybook) - A comprehensive guide to setting up and executing UI tests with Storybook to ensure component reliability and improve development workflows.
 
-## Security
-
- - [Enhancing Security in Sitecore Headless Next.js Apps on XM Cloud](https://www.getfishtank.com/insights/enhancing-security-in-sitecore-headless-next-js-apps-on-xm-cloud) - Step‑by‑step guide to implementing robust security practices in Sitecore headless Next.js applications on XM Cloud, covering authentication, secure APIs, and data protection.
- - [Securin­g Your XM Cloud Project with Next.js From Clickjacking](https://www.getfishtank.com/insights/securing-your-xm-cloud-project-with-nextjs-from-clickjacking) - Learn how to protect your Next.js-based XM Cloud project from clickjacking attacks with best practices and secure coding techniques.
-
-## Search
-
- - [Sitecore Search Sitemap Customization](https://www.getfishtank.com/insights/sitecore-search-sitemap-customization) - How to tailor sitemap triggers and indexing rules so Sitecore Search always crawls the right URLs.
- - [How to Setup a Sitecore Search Source and Prep for Using the Sitecore Search Starter Kit](https://www.getfishtank.com/insights/creating-a-sitecore-search-source-and-prep-for-using-the-sitecore-search-starter-kit) - Step‑by‑step guide to configuring a content source in Sitecore Search and preparing it for the Search Starter Kit.
- - [Where to Debug Errors in Your Sitecore Search Index](https://www.getfishtank.com/insights/where-to-debug-errors-in-your-sitecore-search-index) - Guide to identifying and resolving issues in your Sitecore Search index, featuring practical troubleshooting tips and debugging techniques.
- - [Building Related Content Lists with Sitecore Search Widgets in XM Cloud and Next.js](https://www.getfishtank.com/insights/building-related-content-lists-with-sitecore-search-widgets-in-xm-cloud-and-next-js) - Learn how to leverage Sitecore Search widgets and Next.js to create dynamic related content lists that enhance user engagement and content discoverability.
-
-## Serverless
-
- - [Building a Serverless Email Handler with SMTP and Sitecore Send](https://www.getfishtank.com/insights/building-a-serverless-email-handler-with-smtp-and-sitecore-send) - Learn how to send emails using SMTP with Sitecore Send, Next.js, and Nodemailer.
- - [Creating a Next.js Serverless Function for Sitecore Hook Integration](https://www.getfishtank.com/insights/creating-a-nextjs-serverless-function-for-sitecore-hook-integration) - Build a serverless API route that triggers on Sitecore webhooks and pushes content updates via GraphQL.
-
-## SEO
-
- - [Boosting Your SEO: 5 Effective Strategies Using Sitecore and Next.js](https://www.getfishtank.com/insights/5-effective-seo-strategies-using-sitecore-and-nextjs) - Discover how to leverage Sitecore and Next.js to boost your website's SEO performance.
- - [Optimizing Metadata and SEO in Next.js for Your XM Cloud Website](https://www.getfishtank.com/insights/optimizing-metadata-and-seo-in-nextjs-for-xm-cloud) - Discover how Next.js transforms metadata management for better search engine visibility and improved user experience.
- - [Sitecore SXA SEO Features](https://www.getfishtank.com/insights/sitecore-sxa-seo-features) - Overview of the built‑in SEO tools in Sitecore SXA and best practices for maximizing search visibility.
- - [Regenerate the Sitemap on a Local XM Cloud Docker Development Environment](https://www.getfishtank.com/insights/regenerate-the-sitemap-on-a-local-xm-cloud-docker-development-environment) - Learn how to regenerate an empty sitemap in a local XM Cloud Docker environment using a custom utility for debugging and development.
- - [Customizing a Sitemap in Sitecore XM Cloud for a Multidomain Solution](https://www.getfishtank.com/insights/sitemap-customization-for-sitecore-xm-cloud-multidomain-solutions) - Customize the sitemap.ts file in a Next.js XM Cloud multidomain setup so each domain’s sitemap shows the correct URLs.
- - [Optimizing Metadata and SEO in Next.js for Your XM Cloud Website](https://www.getfishtank.com/insights/optimizing-metadata-and-seo-in-nextjs-for-xm-cloud) - Learn how to manage metadata in Next.js to improve search visibility and user experience on XM Cloud sites.
- - [Customizing a Sitemap in Sitecore XM Cloud for a Multidomain Solution](https://www.getfishtank.com/insights/sitemap-customization-for-sitecore-xm-cloud-multidomain-solutions) - Customize the sitemap.ts file in a Next.js XM Cloud multidomain setup so each domain’s sitemap shows the correct URLs.
 
 ## SXA
 
@@ -252,10 +311,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [Child Selectors & Pseudo-Elements in Tailwind CSS for Sitecore JSS](https://www.getfishtank.com/insights/child-selectors-and-pseudo-elements-in-tailwind-css-for-sitecore-jss) - Improve your Tailwind knowledge and let Sitecore authors easily tweak styling using child selectors, pseudo‑classes, and pseudo‑elements.
  - [How to Optimize Styling Using Tailwind CSS](https://www.getfishtank.com/insights/how-to-optimize-styling-using-tailwind-css) - Best practices for organizing classes, using @apply, and purging unused styles to keep Tailwind‑generated CSS lean and maintainable.
-
+ - [Implementing Theming in Sitecore Headless XM Cloud with Tailwind CSS](https://www.getfishtank.com/insights/implementing-theming-in-sitecore-headless-xm-cloud-with-tailwind-css) - Step‑by‑step guide to integrating Tailwind CSS for dynamic theming in Sitecore headless XM Cloud projects.
+   
 ## Testing
 
  - [What is Sitecore XM Cloud A/B/n Testing?](https://www.getfishtank.com/insights/what-is-sitecore-xm-cloud-a-b-n-testing) - Initial impressions and a walkthrough of XM Cloud’s new A/B/n testing feature, showing how marketers configure component‑level experiments.
+
+## TypeScript
+
+ - [Best Practices for Next.js and TypeScript Component Organization](https://www.getfishtank.com/insights/best-practices-for-nextjs-and-typescript-component-organization) - Learn effective strategies for organizing your Next.js components using TypeScript for scalable and maintainable code.
 
 ## Vercel
 
