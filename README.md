@@ -142,6 +142,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [Guide for Frontend Developers Starting with Sitecore XM Cloud](https://www.getfishtank.com/insights/guide-for-frontend-developers-starting-with-sitecore-xm-cloud) - A comprehensive guide that covers setup, best practices, and essential tips for frontend developers building headless applications on Sitecore XM Cloud.
  - [Identifying Resource File and Database Items in Sitecore XM Cloud](https://www.getfishtank.com/insights/identifying-resource-file-and-database-items-in-sitecore-xm-cloud) - A guide to differentiating between resource files and database items in Sitecore XM Cloud, ensuring accurate content management and troubleshooting.
+ - [Sitecore and XM Cloud Secrets for Developers and Content Authors](https://www.getfishtank.com/insights/sitecore-and-xm-cloud-secrets-for-developers-and-content-authors) - Explore best practices for managing secrets in Sitecore XM Cloud, ensuring secure access for both developers and content authors.
 
 ## Going Live
 
@@ -177,6 +178,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Image Optimization with Next.js for XM Cloud and Sitecore Headless Development](https://www.getfishtank.com/insights/image-optimization-with-next-js-for-xm-cloud-and-sitecore-headless-development) - Best practices and techniques for optimizing images in Next.js applications integrated with XM Cloud and Sitecore headless solutions to improve page load speeds.
 
 ## Middleware
+
+ - [Setting Up Middleware Plugins for Your XM Cloud Project Using Next.js](https://www.getfishtank.com/insights/setting-up-middleware-plugins-for-your-xm-cloud-project-using-nextjs) - A guide to configuring middleware plugins in your XM Cloud project with Next.js to enhance request handling and API integrations.
 
 ## Multisite
 
