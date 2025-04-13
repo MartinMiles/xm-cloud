@@ -1,6 +1,6 @@
 # XM Cloud knowledge reference
 
-[<img src="logo.png" align="right" width="80">](https://sitecore.com)
+[<img src="xmc-logo.png" align="right" width="80">](https://sitecore.com)
 
 > A curated list of XMCloud-related projects on GitHub. Please contribute!
 
