@@ -31,6 +31,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [JSS](#jss)
 - [Logging](#logging)
 - [Media](#media)
+- [Metadata Editing Mode](#metadataeditingmode)
 - [Middleware](#middleware)
 - [Multisite](#mulisite)
 - [Languages](#languages)
@@ -210,6 +211,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [Image Optimization with Next.js for XM Cloud and Sitecore Headless Development](https://www.getfishtank.com/insights/image-optimization-with-next-js-for-xm-cloud-and-sitecore-headless-development) - Best practices and techniques for optimizing images in Next.js applications integrated with XM Cloud and Sitecore headless solutions to improve page load speeds.
  - [Using Next.js Image Component in Sitecore XM Cloud](https://www.getfishtank.com/insights/using-nextjs-image-component-in-sitecore-xm-cloud) - Guide to implementing and optimizing the Next.js Image component in Sitecore XM Cloud projects for performance and accessibility.
+
+## Metadata Editing Mode
+
+ - [XM Cloud: Welcome the Brand New Metadata Editing Mode for Pages – Part 1](https://hachweb.wordpress.com/2024/09/02/xm-cloud-welcome-the-brand-new-metadata-editing-mode-for-pages-part-1/) - Introduction to the new metadata editing mode for pages in XM Cloud, outlining key benefits and initial configuration steps.
+ - [XM Cloud: Welcome the Brand New Metadata Editing Mode for Pages – Part 2](https://hachweb.wordpress.com/2024/08/28/xm-cloud-welcome-the-brand-new-metadata-editing-mode-for-pages-part-2/) - Deep dive into the functionalities and interface improvements of the new metadata editing mode, with detailed insights for content managers.
+ - [XM Cloud: Welcome the Brand New Metadata Editing Mode for Pages – Part 3](https://hachweb.wordpress.com/2024/08/28/xm-cloud-welcome-the-brand-new-metadata-editing-mode-for-pages-part-3/) - Final part covering advanced configuration, best practices, and tips for maximizing the new metadata editing mode in XM Cloud.
 
 ## Middleware
 
@@ -424,5 +431,48 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 
 
+Ghodrat
+[Restarting XM Cloud Instances](https://www.ashournia.com/restarting-xmcloud-instances/) - Learn how to restart XM Cloud instances for improved stability and troubleshooting.
+[ContentHub DAM Connector and XM Cloud](https://www.ashournia.com/contenthub-dam-connector-and-xmcloud/) - Guide to integrating the ContentHub DAM Connector with XM Cloud for enhanced digital asset management.
+[Basic Authentication for Storybook](https://www.ashournia.com/basic-authentication-for-storybook/) - Step‑by‑step instructions for setting up basic authentication in Storybook to secure your UI components.
+[XM Cloud Deploy Process](https://www.ashournia.com/xmcloud-deploy-process/) - Overview of the deployment process for XM Cloud projects, detailing best practices and automation tips.
+[Extending Security Roles in XM Cloud](https://www.ashournia.com/extending-security-roles-in-xmcloud/) - Learn how to enhance security by extending roles in XM Cloud for better access control.
+[Sitemap in XM Cloud](https://www.ashournia.com/sitemap-in-xmcloud/) - Guide to configuring and managing sitemaps within XM Cloud for optimal SEO and content organization.
+[Component Editing Options in Sitecore Pages](https://www.ashournia.com/component-editing-options-in-sitecore-pages/) - Explore editing options for components in Sitecore Pages to streamline content editing workflows.
+[Configure Multiple Environments per Site in XM Cloud](https://www.ashournia.com/configure-multiple-environments-per-site-in-xmcloud/) - Step‑by‑step guide to setting up and managing multiple environments for each site in XM Cloud.
+[Handling Media Items in XM Cloud and Experience Edge](https://www.ashournia.com/handling-media-items-in-xmcloud-and-experience-edge/) - Learn best practices for managing and delivering media items across XM Cloud and Experience Edge.
+[Workflow in XM Cloud and Sitecore Pages](https://www.ashournia.com/workflow-in-xmcloud-and-sitecore-pages/) - Detailed guide to configuring and managing workflows in XM Cloud and Sitecore Pages for streamlined content approvals.
+[Sitecore Experience Edge Administration and Webhooks](https://www.ashournia.com/sitecore-experience-edge-administration-and-webhooks/) - Understand how to administer Experience Edge and configure webhooks for automated content updates.
+[New XM Cloud Language Localizations](https://www.ashournia.com/new-xmcloud-language-localizations/) - Overview of the latest language localization features in XM Cloud to support global content strategies.
+[Codeless Development in XM Cloud](https://www.ashournia.com/codeless-development-in-xmcloud/) - Learn how to leverage codeless development features in XM Cloud to accelerate project delivery and simplify workflows.
+[Small Tips for XM Cloud Development](https://www.ashournia.com/small-tips-for-xmcloud-development/) - Collection of practical tips and best practices to boost productivity and efficiency in XM Cloud development.
+[Understand Publishing in XM Cloud and Experience Edge](https://www.ashournia.com/undrestand-publishing-in-xmcloud-and-experience-edge/) - Comprehensive guide to understanding the publishing process in XM Cloud and Experience Edge for smooth content delivery.
+[IAR Protobuf](https://www.ashournia.com/iar-protobuf/) - Overview of IAR Protobuf and its role in Sitecore XM Cloud for efficient data serialization and communication.
+[Item Deployment in Sitecore XM Cloud](https://www.ashournia.com/item-deployment-in-sitecore-xmcloud/) - Step‑by‑step guide on deploying items in Sitecore XM Cloud to streamline content updates and versioning.
+[Accessing SXA Partial Design Datasources Using PowerShell](https://www.ashournia.com/accessing-sxa-partial-design-datasources-using-powershell/) - Learn how to access and manage SXA partial design datasources in Sitecore using PowerShell for advanced customization.
 
+[Sitecore XM Cloud: You Need a 3rd Party DAM Integration? No Problem!](https://hachweb.wordpress.com/2024/04/30/sitecore-xm-cloud-you-need-a-3rd-party-dam-integration-no-problem/) - Learn how to seamlessly integrate a third-party DAM solution with Sitecore XM Cloud to enhance digital asset management.
+[XM Cloud: Maximize Middleware Performance by Leveraging Edge Config](https://hachweb.wordpress.com/2024/09/12/xm-cloud-maximize-middleware-performance-by-leveraging-edge-config/) - Discover strategies to boost middleware performance in XM Cloud by utilizing edge configuration settings for faster response times.
+[XM Cloud: Uncover All the Secrets of Embedded Personalization](https://hachweb.wordpress.com/2025/01/07/xm-cloud-uncover-all-the-secrets-of-embedded-personalization/) - Explore advanced techniques for implementing embedded personalization in XM Cloud to deliver tailored user experiences.
+[Cloud SDK: The Best Friend of Every Sitecore Developer](https://hachweb.wordpress.com/2025/02/13/cloud-sdk-the-best-friend-of-every-sitecore-developer/) - Learn why the Cloud SDK is an essential tool for Sitecore developers and how it streamlines development workflows.
+[XM Cloud: From Data to Display – Mastering Field Types for Seamless Backend-to-Frontend Integration (Part 2)](https://hachweb.wordpress.com/2025/02/27/xm-cloud-from-data-to-display-mastering-field-types-for-seamless-backend-to-frontend-integration-part-2/) - Continuation of the guide on mastering field types, focusing on advanced techniques for smooth data integration from backend to frontend.
+[XM Cloud: From Data to Display – Mastering Field Types for Seamless Backend-to-Frontend Integration (Part 1)](https://hachweb.wordpress.com/2025/02/19/xm-cloud-from-data-to-display-mastering-field-types-for-seamless-backend-to-frontend-integration-part-1/) - Learn the fundamentals of managing field types in XM Cloud for efficient data flow from backend systems to frontend displays.
+[XM Cloud: Dealing with Dynamic Redirects and Middleware Invocations – A New Approach](https://hachweb.wordpress.com/2025/04/02/xm-cloud-dealing-with-dynamic-redirects-and-concerned-about-middleware-invocations-and-performance-youre-in-the-right-place-to-discover-a-new-approach/) - Discover a new approach to handling dynamic redirects in XM Cloud while optimizing middleware invocations for better performance.
+[Sitecore XM Cloud: Introduction of Modern Integration Scenarios](https://hachweb.wordpress.com/2023/04/02/sitecore-xm-cloud-introduction-of-modern-integration-scenarios/) - An introductory guide outlining modern integration scenarios in Sitecore XM Cloud to modernize digital experiences.
+[Sitecore XM Cloud: Speed Up Content Creation Process with the Power of AI – Part 1](https://hachweb.wordpress.com/2023/09/27/sitecore-xm-cloud-speed-up-content-creation-process-with-the-power-of-ai-part-1/) - Explore foundational strategies for leveraging AI to accelerate content creation in Sitecore XM Cloud.
+[Sitecore XM Cloud: Speed Up Content Creation Process with the Power of AI – Part 2](https://hachweb.wordpress.com/2023/09/27/sitecore-xm-cloud-speed-up-content-creation-process-with-the-power-of-ai-part-2/) - Dive deeper into practical applications of AI in speeding up content production in XM Cloud.
+[Sitecore XM Cloud: Speed Up Content Creation Process with the Power of AI – Part 3](https://hachweb.wordpress.com/2023/09/27/sitecore-xm-cloud-speed-up-content-creation-process-with-the-power-of-ai-part-3/) - Conclude the AI content creation series with advanced techniques and key takeaways to optimize workflows.
+[How to Leverage On-Demand Incremental Static Regeneration in XM Cloud and Next.js](https://hachweb.wordpress.com/2023/10/04/how-to-leverage-on-demand-incremental-static-regeneration-in-xm-cloud-and-next-js/) - Learn how to implement on‑demand incremental static regeneration in XM Cloud with Next.js for improved performance and dynamic content updates.
+[Sitecore XM Cloud: Deploy & Fully Automate Environment Management for Your Pull Requests with Sitecore Connect as DevOps Tool](https://hachweb.wordpress.com/2024/04/24/sitecore-xm-cloud-deploy-fully-automate-environment-management-for-your-pull-requests-with-sitecore-connect-as-devops-tool/) - Discover how to automate environment management and streamline deployments for pull requests using Sitecore Connect in XM Cloud.
+[Sitecore XM Cloud: Making External Approval Workflows Easier Than Ever Before](https://hachweb.wordpress.com/2023/12/27/sitecore-xm-cloud-making-external-approval-workflows-easier-than-ever-before/) - Learn how to simplify and optimize external approval workflows in XM Cloud for faster content publishing and collaboration.
+
+Anton
+[Metadata Editing Mode](https://exdst.com/posts/20241010-metadata-editing-mode) - Discover how to enhance content management with the new Metadata Editing Mode in your Sitecore projects.
+[Validate Sitecore Serialization Using Git Hooks](https://exdst.com/posts/20220912-validate-sitecore-serialization-using-git-hooks) - Learn how to leverage Git Hooks to automatically validate Sitecore serialization for consistent project integrity.
+[Sitecore Solr Search: Q & FQ](https://exdst.com/posts/20221014-sitecore-solr-search-q-fq) - Explore the use of query (Q) and filter query (FQ) parameters in Sitecore Solr Search to refine search results.
+[React Experience Editor](https://exdst.com/posts/20230807-react-experience-editor) - A guide on using React to enhance the Sitecore Experience Editor for a more interactive content authoring experience.
+[Sitecore JSS React Next.js Migration](https://exdst.com/posts/20240102-sitecore-jss-react-nextjs-migration) - Step‑by‑step instructions for migrating your Sitecore JSS React project to Next.js for improved performance and scalability.
+[Sitecore Azure Static Web Apps](https://exdst.com/posts/20240121-sitecore-azure-static-web-apps) - Learn how to deploy your Sitecore projects on Azure Static Web Apps to leverage cloud scalability and performance benefits.
+[Sitecore Netlify](https://exdst.com/posts/20240226-sitecore-netlify) - Discover the process of deploying Sitecore solutions using Netlify for modern, continuous deployment workflows.
+[Cheapest Possible Sitecore Next.js Hosting](https://exdst.com/posts/20240220-cheapest-possible-sitecore-nextjs-hosting) - Explore cost‑effective hosting options for your Sitecore Next.js projects without compromising on performance.
 
