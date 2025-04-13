@@ -41,17 +41,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## GraphQL
 
-[Sitecore JSS Component Creation Using Integrated GraphQL](https://www.getfishtank.com/insights/jss-component-with-integrated-graphql-query) - How to reshape rendering JSON in Sitecore JSS by embedding Integrated GraphQL queries inside components.
-
-[Effective Strategies for Integrating Sitecore Data with Custom Hooks and Static Props](https://www.getfishtank.com/insights/integrating-sitecore-data-in-next-js-xm-cloud-using-graphql) - Compare static generation and dynamic fetching approaches to pull Sitecore data into Next.js via GraphQL.
-
-[Utilizing Next.js API Routes for Sitecore XM Cloud GraphQL Queries](https://www.getfishtank.com/insights/utilizing-nextjs-api-routes-for-sitecore-xm-cloud-graphql-queries) - Build secure Next.js API routes that execute GraphQL queries against Sitecore Experience Edge.
-
-[Enabling the GraphQL API for Master, Web and Core Database](https://www.getfishtank.com/insights/enabling-the-graphql-api-for-sitecore-databases) - Step‑by‑step guide to turn on GraphQL endpoints for all Sitecore content databases and test them in Experience Edge.
-
-[Understanding Graph Types in Sitecore](https://www.getfishtank.com/insights/understanding-graph-types-in-sitecore) - Developer guide to Sitecore Graph Types—base, scalar, complex, and derived classes—and how they structure data for Experience Edge GraphQL queries.
-
-[Sitecore JSS Component Creation Using Integrated GraphQL](https://www.getfishtank.com/insights/jss-component-with-integrated-graphql-query) - Learn how to use Integrated GraphQL when creating a JSS component in Sitecore to customize the JSON returned by the Layout Service.
+ - [Sitecore JSS Component Creation Using Integrated GraphQL](https://www.getfishtank.com/insights/jss-component-with-integrated-graphql-query) - How to reshape rendering JSON in Sitecore JSS by embedding Integrated GraphQL queries inside components.
+ - [Effective Strategies for Integrating Sitecore Data with Custom Hooks and Static Props](https://www.getfishtank.com/insights/integrating-sitecore-data-in-next-js-xm-cloud-using-graphql) - Compare static generation and dynamic fetching approaches to pull Sitecore data into Next.js via GraphQL.
+ - [Utilizing Next.js API Routes for Sitecore XM Cloud GraphQL Queries](https://www.getfishtank.com/insights/utilizing-nextjs-api-routes-for-sitecore-xm-cloud-graphql-queries) - Build secure Next.js API routes that execute GraphQL queries against Sitecore Experience Edge.
+ - [Enabling the GraphQL API for Master, Web and Core Database](https://www.getfishtank.com/insights/enabling-the-graphql-api-for-sitecore-databases) - Step‑by‑step guide to turn on GraphQL endpoints for all Sitecore content databases and test them in Experience Edge.
+ - [Understanding Graph Types in Sitecore](https://www.getfishtank.com/insights/understanding-graph-types-in-sitecore) - Developer guide to Sitecore Graph Types—base, scalar, complex, and derived classes—and how they structure data for Experience Edge GraphQL queries.
+ - [Sitecore JSS Component Creation Using Integrated GraphQL](https://www.getfishtank.com/insights/jss-component-with-integrated-graphql-query) - Learn how to use Integrated GraphQL when creating a JSS component in Sitecore to customize the JSON returned by the Layout Service.
 
 ## Next.Js
 
