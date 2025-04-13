@@ -8,9 +8,13 @@ Sitecore XM Cloud is a fully managed self-service deployment platform for develo
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-<table width="100%">
+<table>
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
 
 - [Accessibility](#accessibility)  
 - [AI](#ai)  
@@ -38,7 +42,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Metadata Editing Mode](#metadataeditingmode)  
 
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
 
 - [Middleware](#middleware)  
 - [Multisite](#mulisite)  
