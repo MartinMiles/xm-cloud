@@ -9,6 +9,22 @@ Sitecore XM Cloud is a fully managed self-service deployment platform for develo
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 <div class="columns">
+  <style>
+.columns {
+  display: flex;
+  gap: 50px; /* Adjust gap between columns */
+}
+
+.columns ul {
+  list-style-type: none; /* remove bullets if you prefer */
+  padding-left: 0;
+  margin: 0;
+}
+
+.columns ul li {
+  margin-bottom: 8px; /* Adjust spacing between items */
+}
+</style>
   <ul>
     <li><a href="#accessibility">Accessibility</a></li>
     <li><a href="#ai">AI</a></li>
@@ -65,22 +81,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     <li><a href="#workflows">Workflows</a></li>
   </ul>
 </div>
-<style>
-.columns {
-  display: flex;
-  gap: 50px; /* Adjust gap between columns */
-}
 
-.columns ul {
-  list-style-type: none; /* remove bullets if you prefer */
-  padding-left: 0;
-  margin: 0;
-}
-
-.columns ul li {
-  margin-bottom: 8px; /* Adjust spacing between items */
-}
-</style>
 
 ## Accessibility
 
