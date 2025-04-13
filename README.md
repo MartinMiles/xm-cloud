@@ -12,6 +12,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Accessibility](#accessibility)
 - [AI](#ai)
+- [APIs](#apis)
 - [Analytics](#analytics)
 - [Cloud SKD](#cloudsdk)
 - [Conent](#content)
@@ -75,6 +76,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Sitecore XM Cloud: Speed Up Content Creation Process with the Power of AI – Part 2](https://hachweb.wordpress.com/2023/09/27/sitecore-xm-cloud-speed-up-content-creation-process-with-the-power-of-ai-part-2/) - Dive deeper into practical applications of AI in speeding up content production in XM Cloud.
  - [Sitecore XM Cloud: Speed Up Content Creation Process with the Power of AI – Part 3](https://hachweb.wordpress.com/2023/09/27/sitecore-xm-cloud-speed-up-content-creation-process-with-the-power-of-ai-part-3/) - Conclude the AI content creation series with advanced techniques and key takeaways to optimize workflows.
 
+## APIs
+
+- [Introducing Sitecore XM Cloud Apps REST](https://www.nehemiahj.com/2024/10/introducing-sitecore-xm-cloud-apps-rest.html) - Learn about the new REST APIs for XM Cloud Apps and how they empower developers to streamline integrations and enhance functionality.
+
 ## Analytics
 
  - [Understanding Analytics in Sitecore XM Cloud Pages](https://www.getfishtank.com/insights/understanding-analytics-in-sitecore-xm-cloud-pages) - Explore XM Cloud Pages’ built‑in Analyze tool for real‑time insights into site and page performance.
@@ -134,6 +139,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Configure Multiple Environments per Site in XM Cloud](https://www.ashournia.com/configure-multiple-environments-per-site-in-xmcloud/) - Step‑by‑step guide to setting up and managing multiple environments for each site in XM Cloud.
  - [XM Cloud Deploy Process](https://www.ashournia.com/xmcloud-deploy-process/) - Overview of the deployment process for XM Cloud projects, detailing best practices and automation tips.
  - [Codeless Development in XM Cloud](https://www.ashournia.com/codeless-development-in-xmcloud/) - Learn how to leverage codeless development features in XM Cloud to accelerate project delivery and simplify workflows.
+ - [Hosting Sitecore XM Cloud Next.js](https://www.nehemiahj.com/2024/03/hosting-sitecore-xm-cloud-nextjs.html) - Discover best practices for deploying and hosting Next.js projects on Sitecore XM Cloud to achieve scalable and performant web experiences.
 
 ## Docker
 
@@ -205,6 +211,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Handling Link Field GraphQL Queries on Sitecore XM Cloud Experience Edge](https://www.getfishtank.com/insights/handling-link-field-graphql-queries-on-sitecore-xm-cloud-experience-edge) - Step‑by‑step guide to managing and troubleshooting link field GraphQL queries on Sitecore XM Cloud Experience Edge for streamlined content delivery.
  - [Mastering GraphQL Search Queries on Sitecore's Experience Edge](https://www.getfishtank.com/insights/mastering-graphql-search-queries-on-sitecores-experience-edge) - Detailed guide to mastering GraphQL search queries on Sitecore's Experience Edge, offering best practices and advanced techniques for efficient content retrieval.
  - [Fix the Sitecore GraphQL Search Query Argument 'Where Has Invalid Value' Error](https://www.getfishtank.com/insights/fix-the-sitecore-graphql-search-query-argument-where-has-invalid-value-error) - Step‑by‑step guide to troubleshooting and fixing the 'Where Has Invalid Value' error in Sitecore GraphQL search queries.
+ - [Sitecore XM Cloud: The Correct Way to Resolve GraphQL Too Nested to Execute Issue](https://www.getfishtank.com/insights/sitecore-xm-cloud-the-correct-way-to-resolve-graphql-too-nested-to-execute-issue) - Step‑by‑step guide to resolving the "GraphQL Too Nested to Execute" error in Sitecore XM Cloud, offering best practices and optimization techniques for efficient query execution.
 
 ## Integrations
 
@@ -313,6 +320,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [Audience Building for Personalization in Sitecore XM Cloud](https://www.getfishtank.com/insights/audience-building-for-personalization-in-sitecore-xm-cloud) - Discover strategies and best practices for building and leveraging audience data to drive personalized experiences in Sitecore XM Cloud.
  - [XM Cloud: Uncover All the Secrets of Embedded Personalization](https://hachweb.wordpress.com/2025/01/07/xm-cloud-uncover-all-the-secrets-of-embedded-personalization/) - Explore advanced techniques for implementing embedded personalization in XM Cloud to deliver tailored user experiences.
+ - [Troubleshooting Embedded Personalization and Analytics in XM Cloud](https://sitecorewithraman.wordpress.com/2024/05/04/troubleshooting-embedded-personalization-and-analytics-in-xm-cloud/) - Comprehensive guide to diagnosing and resolving issues with embedded personalization and analytics in XM Cloud.
 
 ## Placeholders
 
@@ -368,6 +376,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Enhancing Security in Sitecore Headless Next.js Apps on XM Cloud](https://www.getfishtank.com/insights/enhancing-security-in-sitecore-headless-next-js-apps-on-xm-cloud) - Step‑by‑step guide to implementing robust security practices in Sitecore headless Next.js applications on XM Cloud, covering authentication, secure APIs, and data protection.
  - [Securin­g Your XM Cloud Project with Next.js From Clickjacking](https://www.getfishtank.com/insights/securing-your-xm-cloud-project-with-nextjs-from-clickjacking) - Learn how to protect your Next.js-based XM Cloud project from clickjacking attacks with best practices and secure coding techniques.
  - [Extending Security Roles in XM Cloud](https://www.ashournia.com/extending-security-roles-in-xmcloud/) - Learn how to enhance security by extending roles in XM Cloud for better access control.
+ - [Configuring Single Sign-On (SSO) Connection in Sitecore Cloud Portal Using Azure AD](https://sitecorewithraman.wordpress.com/2025/01/28/configuring-single-sign-on-sso-connection-in-sitecore-cloud-portal-using-azure-ad/) - Step‑by‑step guide to set up SSO in the Sitecore Cloud Portal using Azure AD for seamless user authentication.
 
 ## Search
 
@@ -384,6 +393,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [A Guide to the Sitecore Search Customer Engagement Console](https://www.getfishtank.com/insights/a-guide-to-the-sitecore-search-customer-engagement-console) - Comprehensive guide to leveraging the Customer Engagement Console in Sitecore Search to enhance user interactions and analytics.
  - [Intro to Sitecore Search Analytics](https://www.getfishtank.com/insights/intro-to-sitecore-search-analytics) - Overview of Sitecore Search Analytics, detailing key concepts and techniques for analyzing search data to enhance user experience and content discoverability.
  - [Debugging Your Sitecore Search Integration on Next.js and Sitecore XM Cloud](https://www.getfishtank.com/insights/debugging-your-sitecore-search-integration-on-nextjs-and-sitecore-xm-cloud) - Troubleshoot and optimize the search integration between Next.js and Sitecore XM Cloud with practical debugging techniques.
+ - [Sitecore Search Source Types – Part I](https://blogs.perficient.com/2025/04/07/sitecore-search-source-types-part-i/) - Detailed breakdown of different Sitecore Search source types and their usage.
+ - [Making Sense of Sitecore Search Crawlers, Extractors, and Widgets](https://blogs.perficient.com/2025/02/28/making-sense-of-sitecore-search-crawlers-extractors-and-widgets/) - Guide to understanding the key components of Sitecore Search including crawlers, extractors, and widgets.
 
 ## Serialization
 
@@ -466,6 +477,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Vercel Pro vs Enterprise: Comparison of Critical Features](https://www.getfishtank.com/insights/vercel-pro-vs-enterprise-comparison-of-critical-features) - Detailed feature-by-feature comparison of Vercel Pro and Enterprise plans, highlighting the key differences essential for scaling modern web applications.
  - [Optimize the Organization of Vercel Environment Variables for Your Project](https://www.getfishtank.com/insights/optimize-the-organization-of-vercel-environment-variables-for-your-project) - Best practices for managing and organizing environment variables in Vercel to support scalable and secure deployments.
  - [Detailed Research on Benefits and ROI for Vercel](https://www.getfishtank.com/insights/detailed-research-on-benefits-and-roi-for-vercel) - In-depth analysis of the return on investment and business advantages of using Vercel for frontend deployment.
+ - [Resolving CSS and JS Loading Issues in Sitecore XM Cloud Deployed on Vercel](https://sitecorewithraman.wordpress.com/2024/02/19/resolving-css-and-js-loading-issues-in-sitecore-xm-cloud-deployed-on-vercel/) - Troubleshooting guide for fixing CSS and JavaScript loading problems in Sitecore XM Cloud when deployed on Vercel.
+
 
 ## Versions
 
@@ -482,7 +495,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [Workflow in XM Cloud and Sitecore Pages](https://www.ashournia.com/workflow-in-xmcloud-and-sitecore-pages/) - Detailed guide to configuring and managing workflows in XM Cloud and Sitecore Pages for streamlined content approvals.
  - [Sitecore XM Cloud: Making External Approval Workflows Easier Than Ever Before](https://hachweb.wordpress.com/2023/12/27/sitecore-xm-cloud-making-external-approval-workflows-easier-than-ever-before/) - Learn how to simplify and optimize external approval workflows in XM Cloud for faster content publishing and collaboration.
-
-
-
 
