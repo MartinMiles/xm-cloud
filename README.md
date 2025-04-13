@@ -62,7 +62,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [Making Next.js Sitecore Projects Accessible](https://www.getfishtank.com/insights/making-nextjs-sitecore-projects-accessible) - Discover best practices and techniques for ensuring web accessibility in Next.js projects built on Sitecore, enhancing usability and compliance.
  - [Essential Tools for Ensuring Web Accessibility](https://www.getfishtank.com/insights/essential-tools-for-ensuring-web-accessibility) - Explore key tools and extensions that help developers ensure websites meet accessibility standards and deliver inclusive experiences.
- - 
+
 ## AI
 
  - [Do More with Less: Use Cases for AI and Sitecore](https://www.getfishtank.com/insights/do-more-with-less-use-cases-for-ai-and-sitecore) - Unlocking the potential of AI with Sitecore to transform digital experiences through automation, personalization, and advanced insights.
