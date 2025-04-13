@@ -8,80 +8,69 @@ Sitecore XM Cloud is a fully managed self-service deployment platform for develo
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-<div class="columns">
-  <style>
-.columns {
-  display: flex;
-  gap: 50px; /* Adjust gap between columns */
-}
+<table>
+  <tr>
+    <td valign="top">
 
-.columns ul {
-  list-style-type: none; /* remove bullets if you prefer */
-  padding-left: 0;
-  margin: 0;
-}
+- [Accessibility](#accessibility)
+- [AI](#ai)
+- [APIs](#apis)
+- [Analytics](#analytics)
+- [Cloud SKD](#cloudsdk)
+- [Content](#content)
+- [Coveo](#coveo)
+- [Data Architecture](#dataarchitecture)
+- [Debugging](#debugging)
+- [Development](#development)
+- [DevOps](#devops)
+- [Docker](#docker)
+- [ErrorPages](#errorpages)
+- [Experience Edge](#experienceedge)
+- [Fields](#fields)
+- [Forms](#forms)
+- [GraphQL](#graphql)
+- [General](#general)
+- [Going Live](#goinglive)
+- [Integrations](#integrations)
+- [JSS](#jss)
+- [Logging](#logging)
+- [Media](#media)
+- [Metadata Editing Mode](#metadataeditingmode)
 
-.columns ul li {
-  margin-bottom: 8px; /* Adjust spacing between items */
-}
-</style>
-  <ul>
-    <li><a href="#accessibility">Accessibility</a></li>
-    <li><a href="#ai">AI</a></li>
-    <li><a href="#apis">APIs</a></li>
-    <li><a href="#analytics">Analytics</a></li>
-    <li><a href="#cloudsdk">Cloud SKD</a></li>
-    <li><a href="#content">Content</a></li>
-    <li><a href="#coveo">Coveo</a></li>
-    <li><a href="#dataarchitecture">Data Architecture</a></li>
-    <li><a href="#debugging">Debugging</a></li>
-    <li><a href="#development">Development</a></li>
-    <li><a href="#devops">DevOps</a></li>
-    <li><a href="#docker">Docker</a></li>
-    <li><a href="#errorpages">ErrorPages</a></li>
-    <li><a href="#experienceedge">Experience Edge</a></li>
-    <li><a href="#fields">Fields</a></li>
-    <li><a href="#forms">Forms</a></li>
-    <li><a href="#graphql">GraphQL</a></li>
-    <li><a href="#general">General</a></li>
-    <li><a href="#goinglive">Going Live</a></li>
-    <li><a href="#integrations">Integrations</a></li>
-    <li><a href="#jss">JSS</a></li>
-    <li><a href="#logging">Logging</a></li>
-    <li><a href="#media">Media</a></li>
-    <li><a href="#metadataeditingmode">Metadata Editing Mode</a></li>
-    <li><a href="#middleware">Middleware</a></li>
-  </ul>
-  <ul>
-    <li><a href="#mulisite">Multisite</a></li>
-    <li><a href="#languages">Languages</a></li>
-    <li><a href="#nextjs">Next.Js</a></li>
-    <li><a href="#nextauth">NextAuth</a></li>
-    <li><a href="#pages">Pages</a></li>
-    <li><a href="#personalization">Personalization</a></li>
-    <li><a href="#placeholders">Placeholders</a></li>
-    <li><a href="#planning">Planning</a></li>
-    <li><a href="#powershell">PowerShell</a></li>
-    <li><a href="#publishing">Publishing</a></li>
-    <li><a href="#react">React</a></li>
-    <li><a href="#redirects">Redirects</a></li>
-    <li><a href="#richtext">RichText</a></li>
-    <li><a href="#security">Security</a></li>
-    <li><a href="#search">Search</a></li>
-    <li><a href="#serialization">Serialization</a></li>
-    <li><a href="#seo">SEO</a></li>
-    <li><a href="#serverless">Serverless</a></li>
-    <li><a href="#storybook">Storybook</a></li>
-    <li><a href="#sxa">SXA</a></li>
-    <li><a href="#testing">Testing</a></li>
-    <li><a href="#typescript">TypeScript</a></li>
-    <li><a href="#vercel">Vercel</a></li>
-    <li><a href="#versions">Versions</a></li>
-    <li><a href="#webhooks">Webhooks</a></li>
-    <li><a href="#workflows">Workflows</a></li>
-  </ul>
-</div>
+    </td>
+    <td valign="top">
 
+- [Middleware](#middleware)
+- [Multisite](#mulisite)
+- [Languages](#languages)
+- [Next.Js](#nextjs)
+- [NextAuth](#nextauth)
+- [Pages](#pages)
+- [Personalization](#personalization)
+- [Placeholders](#placeholders)
+- [Planning](#planning)
+- [PowerShell](#powershell)
+- [Publishing](#publishing)
+- [React](#react)
+- [Redirects](#redirects)
+- [RichText](#richtext)
+- [Security](#security)
+- [Search](#search)
+- [Serialization](#serialization)
+- [SEO](#seo)
+- [Serverless](#serverless)
+- [Storybook](#storybook)
+- [SXA](#sxa)
+- [Testing](#testing)
+- [TypeScript](#typescript)
+- [Vercel](#vercel)
+- [Versions](#versions)
+- [Webhooks](#webhooks)
+- [Workflows](#workflows)
+
+    </td>
+  </tr>
+</table>
 
 ## Accessibility
 
