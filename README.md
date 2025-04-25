@@ -79,6 +79,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## APIs
 
 - [Introducing Sitecore XM Cloud Apps REST](https://www.nehemiahj.com/2024/10/introducing-sitecore-xm-cloud-apps-rest.html) - Learn about the new REST APIs for XM Cloud Apps and how they empower developers to streamline integrations and enhance functionality.
+- [Modern Way to Content Management with Authoring GraphQL API for XM Cloud](https://blog.martinmiles.net/post/modern-way-to-content-management-with-authoring-graphql-api-for-xm-cloud) - Learn to leverage the Authoring GraphQL API for modern content workflows in XM Cloud.
 
 ## Analytics
 
@@ -94,6 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Sitecore Content Migration Testing: A Step-by-Step Guide for QA Tester](https://www.getfishtank.com/insights/sitecore-content-migration-testing-guide-for-qa-tester) - Essential steps and best practices to ensure a smooth and accurate Sitecore content migration.
  - [Using Wildcard Items in Sitecore XM Cloud](https://www.getfishtank.com/insights/using-wildcard-items-in-sitecore-xm-cloud) - Explore how wildcard items can extend and simplify content structure in a Sitecore XM Cloud project.
  - [Item Deployment in Sitecore XM Cloud](https://www.ashournia.com/item-deployment-in-sitecore-xmcloud/) - Step‑by‑step guide on deploying items in Sitecore XM Cloud to streamline content updates and versioning.
+ - [XM Cloud Content Migration: Connecting External Database](https://blog.martinmiles.net/post/xm-cloud-content-migration-connecting-external-database) - Guide to connecting an external database as part of your XM Cloud content migration process.  
 
 ## Coveo
 
@@ -140,6 +142,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [XM Cloud Deploy Process](https://www.ashournia.com/xmcloud-deploy-process/) - Overview of the deployment process for XM Cloud projects, detailing best practices and automation tips.
  - [Codeless Development in XM Cloud](https://www.ashournia.com/codeless-development-in-xmcloud/) - Learn how to leverage codeless development features in XM Cloud to accelerate project delivery and simplify workflows.
  - [Hosting Sitecore XM Cloud Next.js](https://www.nehemiahj.com/2024/03/hosting-sitecore-xm-cloud-nextjs.html) - Discover best practices for deploying and hosting Next.js projects on Sitecore XM Cloud to achieve scalable and performant web experiences.
+ - [GitHub Action with XM Cloud](https://blog.martinmiles.net/post/github-action-with-xm-cloud) - Step-by-step instructions for automating XM Cloud deployments using GitHub Actions.
 
 ## Docker
 
@@ -180,6 +183,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Forms
 
  - [Why Use Serverless Functions in Next.js on Sitecore XM Cloud](https://www.getfishtank.com/insights/why-use-serverless-functions-in-nextjs-on-sitecore-xm-cloud) - Explore the benefits of leveraging serverless functions in Next.js to enhance performance and scalability within Sitecore XM Cloud.
+ - [XM Cloud Forms Builder](https://blog.martinmiles.net/post/xm-cloud-forms-builder) - Introduction to building and customizing forms within XM Cloud.
+ - [Using Conditions with XM Cloud Form Builder](https://blog.martinmiles.net/post/using-conditions-with-xm-cloud-form-builder) - Tutorial on adding conditional logic to forms created with the XM Cloud Form Builder. 
  - [Understanding Sitecore XM Cloud Form Analytics](https://www.getfishtank.com/insights/understanding-sitecore-xm-cloud-form-analytics) - Detailed guide to analyzing and optimizing form interactions in Sitecore XM Cloud for enhanced user engagement and data-driven insights.
  
 ## General
@@ -202,6 +207,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Enabling the GraphQL API for Master, Web and Core Database](https://www.getfishtank.com/insights/enabling-the-graphql-api-for-sitecore-databases) - Step‑by‑step guide to turn on GraphQL endpoints for all Sitecore content databases and test them in Experience Edge.
  - [Understanding Graph Types in Sitecore](https://www.getfishtank.com/insights/understanding-graph-types-in-sitecore) - Developer guide to Sitecore Graph Types—base, scalar, complex, and derived classes—and how they structure data for Experience Edge GraphQL queries.
  - [Sitecore JSS Component Creation Using Integrated GraphQL](https://www.getfishtank.com/insights/jss-component-with-integrated-graphql-query) - Learn how to use Integrated GraphQL when creating a JSS component in Sitecore to customize the JSON returned by the Layout Service.
+ - [Modern Way to Content Management with Authoring GraphQL API for XM Cloud](https://blog.martinmiles.net/post/modern-way-to-content-management-with-authoring-graphql-api-for-xm-cloud) - Learn to leverage the Authoring GraphQL API for modern content workflows in XM Cloud.
  - [Using the GraphQL IDE in XM Cloud to Troubleshoot Content Issues](https://www.getfishtank.com/insights/using-the-graphql-ide-in-xm-cloud-to-troubleshoot-content-issues) - Learn how to set up and use the GraphQL IDE in Sitecore XM Cloud to diagnose content visibility issues.
  - [Useful Sitecore GraphQL Queries](https://www.getfishtank.com/insights/useful-sitecore-graphql-queries) - A curated list of GraphQL queries to streamline content retrieval and troubleshooting in Sitecore XM Cloud.
  - [Mastering Pagination on Sitecore Experience Edge GraphQL Query and Next.js](https://www.getfishtank.com/insights/mastering-pagination-on-sitecore-experience-edge-graphql-query-and-next-js) - Detailed guide on implementing efficient pagination in Next.js using Sitecore Experience Edge GraphQL queries for optimal content loading.
@@ -227,6 +233,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## JSS
 
  - [All Sitecore JSS Types and How to Use Them](https://www.getfishtank.com/insights/all-sitecore-jss-types-and-how-to-use-them) - Comprehensive guide outlining each Sitecore JSS type and practical tips on how to utilize them effectively.
+ - [The Correct Way of Creating Own Components with XM Cloud](https://blog.martinmiles.net/post/the-correct-way-of-creating-own-component-with-xm-cloud) - Best practices for building custom components in XM Cloud solutions.
  - [Creating Editor-Friendly JSS Components](https://www.getfishtank.com/insights/creating-editor-friendly-jss-components) - Step‑by‑step guide to building JSS components optimized for content editors, ensuring an intuitive and efficient editing experience in Sitecore.
  - [What is the PartialDesignDynamicPlaceholder in Sitecore JSS](https://www.getfishtank.com/insights/what-is-the-partialdesigndynamicplaceholder-in-sitecore-jss) - Explains how the PartialDesignDynamicPlaceholder enables dynamic component placement in Sitecore JSS and when to use it.
   - [Improving Sitecore JSS Development with ESLint: Introducing eslint-plugin-sitecore-jss](https://www.getfishtank.com/insights/improving-sitecore-jss-development-with-eslint-introducing-eslint-plugin-sitecore-jss) - Discover how an ESLint plugin for Sitecore JSS enforces best practices and correct component usage in Next.js projects.
@@ -268,11 +275,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Troubleshooting the Next.js Multisite Add-On](https://doc.sitecore.com/xmc/en/developers/jss/latest/jss-xmc/troubleshooting-the-next-js-multisite-add-on.html) - Official documentation providing guidance and troubleshooting tips for the Next.js Multisite Add-On in Sitecore XM Cloud.
  - [Next.js Multisite Add-On Not Working in Local Containers Due to CORS Issues](https://sitecore.stackexchange.com/questions/36594/next-js-multisite-add-on-not-working-in-local-containers-because-of-cors-issues) - CORS issues affecting the Next.js Multisite Add-On in local container environments.
  - [Configure Multiple Environments per Site in XM Cloud](https://www.ashournia.com/configure-multiple-environments-per-site-in-xmcloud/) - Step‑by‑step guide to setting up and managing multiple environments for each site in XM Cloud.
+ - [Full Guide to Enabling Headless Multisite Add-On for Your XM Cloud Solution](https://blog.martinmiles.net/post/full-guide-to-enabling-headless-multisite-add-on-for-your-xm-cloud-solution) - Comprehensive instructions to configure headless multisite support in XM Cloud.
 
 ## Languages
 
  - [Guide to Implementing Multilingual Support in Sitecore XM Cloud](https://www.getfishtank.com/insights/guide-to-implementing-multilingual-support-in-sitecore-xm-cloud) - Step‑by‑step instructions to build and manage multilingual websites in Sitecore XM Cloud, ensuring localized content delivery for a global audience.
  - [New XM Cloud Language Localizations](https://www.ashournia.com/new-xmcloud-language-localizations/) - Overview of the latest language localization features in XM Cloud to support global content strategies.
+ - [A Full Guide to Creating Multi-Language Sites with Sitecore XM Cloud and Next.js](https://blog.martinmiles.net/post/a-full-guide-to-creating-a-multi-language-sites-with-sitecore-xm-cloud-and-next-js) - Step-by-step process for building multilingual sites using XM Cloud and Next.js.
 
 ## Next.Js
 
@@ -293,6 +302,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Comprehensive Guide to Data Fetching in Next.js](https://www.getfishtank.com/insights/comprehensive-guide-to-data-fetching-in-nextjs) - A complete guide covering various data fetching strategies in Next.js, including static generation, server-side rendering, and client-side fetching for building high-performance web applications.
  - [Next Dynamic for Sitecore XM Cloud Development](https://www.getfishtank.com/insights/next-dynamic-for-sitecore-xm-cloud-development) - Learn how to leverage Next.js dynamic imports to optimize performance and streamline development workflows in Sitecore XM Cloud.
  - [Useful Sitecore Helper Functions for Next.js Sitecore Headless XM Cloud](https://www.getfishtank.com/insights/useful-sitecore-helper-functions-for-nextjs-sitecore-headless-xm-cloud) - A curated collection of helper functions to streamline development in Next.js‑based Sitecore headless XM Cloud projects.
+ - [A Crash Course of Next.js: Rendering Strategies and Data Fetching (Part 1)](https://blog.martinmiles.net/post/a-crash-course-of-next-js-part-1-rendering-strategies-and-data-fetching) - Dive into Next.js rendering methods and data-fetching patterns.
+ - [A Crash Course of Next.js: UI-Related and Environmental (Part 2)](https://blog.martinmiles.net/post/a-crash-course-of-next-js-part-2-ui-related-and-environmental) - Explore UI considerations and environment setups in Next.js.
+ - [A Crash Course of Next.js: Routing and Middleware (Part 3)](https://blog.martinmiles.net/post/a-crash-course-of-next-js-part-3-routing-and-middleware) - Learn Next.js routing configuration and middleware usage.
+ - [A Crash Course of Next.js: Caching, Authentication and Going Live Tasks (Part 4)](https://blog.martinmiles.net/post/a-crash-course-of-next-js-part-4-caching-authentication-and-going-live-tasks) - Best practices for caching, authentication, and deployment in Next.js.
 
 ## NextAuth
 
@@ -494,5 +507,5 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Workflows
 
  - [Workflow in XM Cloud and Sitecore Pages](https://www.ashournia.com/workflow-in-xmcloud-and-sitecore-pages/) - Detailed guide to configuring and managing workflows in XM Cloud and Sitecore Pages for streamlined content approvals.
- - [Sitecore XM Cloud: Making External Approval Workflows Easier Than Ever Before](https://hachweb.wordpress.com/2023/12/27/sitecore-xm-cloud-making-external-approval-workflows-easier-than-ever-before/) - Learn how to simplify and optimize external approval workflows in XM Cloud for faster content publishing and collaboration.
+ - [Sitecore XM Cloud: Making External Approval Workflows Easier Than Ever Before](https://hachweb.wordpress.com/2023/12/27/sitecore-xm-cloud-making-external-approval-workflows-easier-than-ever-before/) - Learn how to simplify and optimize external approval workflows in XM Cloud for faster content publishing and collaboration.  
 
