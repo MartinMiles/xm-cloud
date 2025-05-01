@@ -408,6 +408,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Debugging Your Sitecore Search Integration on Next.js and Sitecore XM Cloud](https://www.getfishtank.com/insights/debugging-your-sitecore-search-integration-on-nextjs-and-sitecore-xm-cloud) - Troubleshoot and optimize the search integration between Next.js and Sitecore XM Cloud with practical debugging techniques.
  - [Sitecore Search Source Types – Part I](https://blogs.perficient.com/2025/04/07/sitecore-search-source-types-part-i/) - Detailed breakdown of different Sitecore Search source types and their usage.
  - [Making Sense of Sitecore Search Crawlers, Extractors, and Widgets](https://blogs.perficient.com/2025/02/28/making-sense-of-sitecore-search-crawlers-extractors-and-widgets/) - Guide to understanding the key components of Sitecore Search including crawlers, extractors, and widgets.
+ - [Sitecore Search User Profile Personalization with Personalize](https://dylanyoung.dev/insights/sitecore-search-user-profile-personalization-with-sitecore-personalize/) - Introduction to pairing Sitecore Search user profiles with Sitecore Personalize to enable behavioral personalization based on affinity scoring of user search behavior.  
 
 ## Serialization
 
