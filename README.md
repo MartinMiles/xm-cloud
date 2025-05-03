@@ -131,6 +131,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [Deploying from Azure DevOps to Vercel: A Comprehensive Guide](https://www.getfishtank.com/insights/a-comprehensive-guide-deploying-from-azure-devops-to-vercel) - Guide to deploying web apps from Azure DevOps to Vercel using a custom pipeline and Vercel CLI, ensuring only relevant files are deployed.
  - [Deploy Sitecore XM Cloud from DevOps Release Pipeline Using the CLI](https://www.getfishtank.com/insights/deploy-sitecore-xm-cloud-from-devops-release-pipeline-using-the-cli) - Learn how to deploy Sitecore XM Cloud from a DevOps release pipeline using the CLI for streamlined and automated delivery.
+ - [All you need to know about transforming Web.config on Sitecore XM Cloud](https://blog.martinmiles.net/post/all-you-need-to-know-about-transforming-web-config-on-sitecore-xm-cloud) - Explains cloud-compatible XDT transforms and local development methods for patching web.config in XM Cloud environments.
  - [IAR Protobuf](https://www.ashournia.com/iar-protobuf/) - Overview of IAR Protobuf and its role in Sitecore XM Cloud for efficient data serialization and communication.
  - [How to Leverage On-Demand Incremental Static Regeneration in XM Cloud and Next.js](https://hachweb.wordpress.com/2023/10/04/how-to-leverage-on-demand-incremental-static-regeneration-in-xm-cloud-and-next-js/) - Learn how to implement on‑demand incremental static regeneration in XM Cloud with Next.js for improved performance and dynamic content updates.
  - [Sitecore Azure Static Web Apps](https://exdst.com/posts/20240121-sitecore-azure-static-web-apps) - Learn how to deploy your Sitecore projects on Azure Static Web Apps to leverage cloud scalability and performance benefits.
@@ -201,6 +202,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## GraphQL
 
+ - [XM Cloud Headless Endpoints – Local vs Cloud vs Preview](https://blog.martinmiles.net/post/xm-cloud-headless-endpoints-local-vs-cloud-vs-preview) - Overview of the different GraphQL endpoints available in XM Cloud, comparing local CM, preview, and live Experience Edge modes.
  - [Sitecore JSS Component Creation Using Integrated GraphQL](https://www.getfishtank.com/insights/jss-component-with-integrated-graphql-query) - How to reshape rendering JSON in Sitecore JSS by embedding Integrated GraphQL queries inside components.
  - [Effective Strategies for Integrating Sitecore Data with Custom Hooks and Static Props](https://www.getfishtank.com/insights/integrating-sitecore-data-in-next-js-xm-cloud-using-graphql) - Compare static generation and dynamic fetching approaches to pull Sitecore data into Next.js via GraphQL.
  - [Utilizing Next.js API Routes for Sitecore XM Cloud GraphQL Queries](https://www.getfishtank.com/insights/utilizing-nextjs-api-routes-for-sitecore-xm-cloud-graphql-queries) - Build secure Next.js API routes that execute GraphQL queries against Sitecore Experience Edge.
@@ -343,6 +345,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Planning
 
+ - [Sitecore XP vs XM Cloud full guide: which one to choose in 2025](https://blog.martinmiles.net/post/sitecore-xp-vs-xm-cloud-guide-which-one-to-choose-in-2025) - Comprehensive comparison of Sitecore XP and XM Cloud across cost, architecture, compliance, and lifecycle to help decision-makers choose the right platform in 2025.  
+ - [Compliance and Geographic Hosting Considerations for Sitecore XM/XP vs XM Cloud](https://blog.martinmiles.net/post/compliance-and-geographic-hosting-considerations-for-sitecore-producs) - In-depth look at GDPR, CCPA, HIPAA, DORA, and localization laws comparing self-hosted XP/XM and XM Cloud compliance and data residency options.  
  - [How to Choose a Next.js Hosting Provider for Sitecore XM Cloud](https://www.getfishtank.com/insights/how-to-choose-a-nextjs-hosting-provider-for-sitecore-xm-cloud) - Guide to evaluating and selecting the best hosting provider for your Next.js projects running on Sitecore XM Cloud.
  - [Sitecore XM Cloud Pricing](https://www.getfishtank.com/insights/sitecore-xm-cloud-pricing) - Overview and analysis of the pricing structure for Sitecore XM Cloud, helping you plan your investment and ROI.
  - [Alternative Tools to Generate Solution Architecture Diagrams for Sitecore XM Cloud Headless](https://www.getfishtank.com/insights/alternative-tools-to-generate-solution-architecture-diagrams-sitecore-xm-cloud-headless) - Explore alternative tools and methods for creating clear and effective solution architecture diagrams in headless Sitecore XM Cloud projects.
@@ -377,6 +381,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Redirects
 
+ - [Redirects in Sitecore XM Cloud - know your options!](https://blog.martinmiles.net/post/redirects-in-sitecore-xm-cloud-know-your-options) - Detailed overview of content-managed, static, middleware-based, and hybrid redirect strategies available in XM Cloud projects.
  - [Sitecore XM Cloud Redirects: Page-Level Dynamic and Out-of-the-Box Redirects](https://www.getfishtank.com/insights/sitecore-xm-cloud-redirects-page-level-dynamic-and-out-of-the-box-redirects) - Learn how to implement and manage both dynamic page‑level redirects and built‑in out‑of‑the‑box redirects in Sitecore XM Cloud for improved navigation and SEO.
  - [XM Cloud: Dealing with Dynamic Redirects and Middleware Invocations – A New Approach](https://hachweb.wordpress.com/2025/04/02/xm-cloud-dealing-with-dynamic-redirects-and-concerned-about-middleware-invocations-and-performance-youre-in-the-right-place-to-discover-a-new-approach/) - Discover a new approach to handling dynamic redirects in XM Cloud while optimizing middleware invocations for better performance.
 
@@ -424,6 +429,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## SEO
 
+ - [Sitemaps in Sitecore XM Cloud: Automation, Customization, and SEO Best Practices](https://blog.martinmiles.net/post/sitemaps-in-sitecore-xm-cloud-automation-customization-and-seo-best-practices) - Guide to automating sitemap generation, customizing sitemap settings, and optimizing SEO workflows in XM Cloud using SXA and headless integration.
  - [Boosting Your SEO: 5 Effective Strategies Using Sitecore and Next.js](https://www.getfishtank.com/insights/5-effective-seo-strategies-using-sitecore-and-nextjs) - Discover how to leverage Sitecore and Next.js to boost your website's SEO performance.
  - [Optimizing Metadata and SEO in Next.js for Your XM Cloud Website](https://www.getfishtank.com/insights/optimizing-metadata-and-seo-in-nextjs-for-xm-cloud) - Discover how Next.js transforms metadata management for better search engine visibility and improved user experience.
  - [Sitecore SXA SEO Features](https://www.getfishtank.com/insights/sitecore-sxa-seo-features) - Overview of the built‑in SEO tools in Sitecore SXA and best practices for maximizing search visibility.
@@ -508,5 +514,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Workflows
 
  - [Workflow in XM Cloud and Sitecore Pages](https://www.ashournia.com/workflow-in-xmcloud-and-sitecore-pages/) - Detailed guide to configuring and managing workflows in XM Cloud and Sitecore Pages for streamlined content approvals.
- - [Sitecore XM Cloud: Making External Approval Workflows Easier Than Ever Before](https://hachweb.wordpress.com/2023/12/27/sitecore-xm-cloud-making-external-approval-workflows-easier-than-ever-before/) - Learn how to simplify and optimize external approval workflows in XM Cloud for faster content publishing and collaboration.  
+ - [Sitecore XM Cloud: Making External Approval Workflows Easier Than Ever Before](https://hachweb.wordpress.com/2023/12/27/sitecore-xm-cloud-making-external-approval-workflows-easier-than-ever-before/) - Learn how to simplify and optimize external approval workflows in XM Cloud for faster content publishing and collaboration.
+ 
 
