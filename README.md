@@ -16,6 +16,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Analytics](#analytics)
 - [Cloud SKD](#cloudsdk)
 - [Conent](#content)
+- [Conent SDK](#content-sdk)
 - [Coveo](#coveo)
 - [Data Architecture](#dataarchitecture)
 - [Debugging](#debugging)
@@ -96,6 +97,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  - [Using Wildcard Items in Sitecore XM Cloud](https://www.getfishtank.com/insights/using-wildcard-items-in-sitecore-xm-cloud) - Explore how wildcard items can extend and simplify content structure in a Sitecore XM Cloud project.
  - [Item Deployment in Sitecore XM Cloud](https://www.ashournia.com/item-deployment-in-sitecore-xmcloud/) - Step‑by‑step guide on deploying items in Sitecore XM Cloud to streamline content updates and versioning.
  - [XM Cloud Content Migration: Connecting External Database](https://blog.martinmiles.net/post/xm-cloud-content-migration-connecting-external-database) - Guide to connecting an external database as part of your XM Cloud content migration process.  
+
+
+## Content SDK
+
+ - [Testing the Sitecore Content SDK App Router beta](https://www.jeroenbreuer.nl/blog/testing-the-sitecore-content-sdk-app-router-beta) - Early approach on the Next.js App Router with Content SDK.
 
 ## Coveo
 
