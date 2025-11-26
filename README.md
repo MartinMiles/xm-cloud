@@ -123,6 +123,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Debugging
 
  - [The Ultimate Guide of Sitecore JSS Debug Logs](https://www.getfishtank.com/insights/the-ultimate-guide-of-sitecore-jss-debug-logs) - Comprehensive guide to debugging Sitecore JSS projects, offering best practices for analyzing logs and troubleshooting issues effectively.
+- [Part 1 Essential Debugging Techniques For Sitecore XM Cloud Next js Apps](https://sitecoresaga.blog/2025/07/14/part-1-essential-debugging-techniques-for-sitecore-xm-cloud-next-js-apps/) - Essential debugging techniques for Sitecore XM Cloud + Next.js apps—covering VS Code setup, JSS logging etc.
+- [Part 2 Advanced Debugging Strategies For Sitecore Xm Cloud Development](https://sitecoresaga.blog/2025/08/15/part-2-advanced-debugging-strategies-for-sitecore-xm-cloud-development/) - Advanced debugging strategies for Sitecore XM Cloud + Next.js — exploring console vs client contexts, browser DevTools, XM Cloud–specific debugging (GraphQL, Experience Editor, field inspectors), and performance tracing.
 
 ## Development
 
